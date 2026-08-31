@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="color-scheme" content="dark">
+  <title>VVV Memory Hub</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div class="hub-shell">
+    <aside class="hub-sidebar">
+      <div class="brand"><div class="brand-mark">V</div><div><b>VVV Memory Hub</b><small>永久记忆后台 · fixed37 β</small></div></div>
+      <label class="archive-search"><span>⌕</span><input id="archive-filter" placeholder="筛选角色 / 聊天"></label>
+      <div class="archive-bulk-bar"><span id="archive-selected-count">未选择</span><div><button id="archive-select-visible">全选当前</button><button id="archive-clear-selection">清空</button><button id="archive-bulk-delete" class="danger" disabled>批量删除</button></div></div>
+      <div id="archive-list" class="archive-list"><div class="empty">正在读取永久档案…</div></div>
+      <div class="side-note">第一阶段直接读取 0-32 永久档案，不搬家、不清空数据。后续 RAG / 重排序会继续落到这里。</div>
+    </aside>
+
+    <main class="hub-main">
+      <header class="hub-head">
+        <div>
+          <small class="eyebrow">MEMORY OPERATIONS CENTER</small>
+          <h1 id="archive-title">选择一个角色档案</h1>
+          <p id="archive-subtitle">时间线 · 约定 · 人物关系 · 手机订单 · 原文证据</p>
+        </div>
+        <div class="head-actions"><button id="refresh">↻ 刷新</button><button id="back-st">返回酒馆</button></div>
+      </header>
+
+      <section id="stats" class="stats"></section>
+
+      <section class="search-panel">
+        <div><b>记忆检索</b><small>搜索人物、事件、约定、食物、地点；结果带楼层与故事时间。</small></div>
+        <div class="search-row"><input id="memory-query" placeholder="例如：洗澡 / 米线 / 催款邮件 / 下周一"><button id="memory-search">搜索</button></div>
+      </section>
+
+      <nav class="tabs" id="tabs">
+        <button data-tab="overview" class="active">总览</button>
+        <button data-tab="timeline">时间线</button>
+        <button data-tab="promises">约定</button>
+        <button data-tab="people">人物关系</button>
+        <button data-tab="orders">手机订单</button>
+        <button data-tab="facts">原子记忆</button>
+        <button data-tab="search">检索结果</button>
+      </nav>
+      <section id="content" class="content"><div class="empty big">从左侧选择角色档案。</div></section>
+    </main>
+  </div>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
