@@ -22,7 +22,7 @@
 
 仓库创建后固定使用：
 
-`https://github.com/nanjun434-byte/vvv-story-memory-suite`
+`https://github.com/GOGUtop/vvv-story-memory-suite`
 
 在 SillyTavern 的扩展安装界面使用上面的 GitHub 仓库地址安装。仓库根目录就是标准扩展目录，`auto_update=true`。
 
