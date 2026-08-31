@@ -1,0 +1,5047 @@
+{
+  "schema": "vvv.builtin-stickers.v1",
+  "catalogVersion": 1,
+  "count": 360,
+  "stickers": [
+    {
+      "id": "builtin-emoji-1f600",
+      "fileName": "builtin-emoji-1f600.png",
+      "name": "开心 001",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "开心",
+        "grinning face",
+        "U+1F600"
+      ],
+      "description": "内置透明图片表情：GRINNING FACE",
+      "unicode": "U+1F600"
+    },
+    {
+      "id": "builtin-emoji-1f601",
+      "fileName": "builtin-emoji-1f601.png",
+      "name": "开心 002",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "开心",
+        "grinning face with smiling eyes",
+        "U+1F601"
+      ],
+      "description": "内置透明图片表情：GRINNING FACE WITH SMILING EYES",
+      "unicode": "U+1F601"
+    },
+    {
+      "id": "builtin-emoji-1f602",
+      "fileName": "builtin-emoji-1f602.png",
+      "name": "开心 003",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "开心",
+        "face with tears of joy",
+        "U+1F602"
+      ],
+      "description": "内置透明图片表情：FACE WITH TEARS OF JOY",
+      "unicode": "U+1F602"
+    },
+    {
+      "id": "builtin-emoji-1f603",
+      "fileName": "builtin-emoji-1f603.png",
+      "name": "表情 004",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "smiling face with open mouth",
+        "U+1F603"
+      ],
+      "description": "内置透明图片表情：SMILING FACE WITH OPEN MOUTH",
+      "unicode": "U+1F603"
+    },
+    {
+      "id": "builtin-emoji-1f604",
+      "fileName": "builtin-emoji-1f604.png",
+      "name": "表情 005",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "smiling face with open mouth and smiling eyes",
+        "U+1F604"
+      ],
+      "description": "内置透明图片表情：SMILING FACE WITH OPEN MOUTH AND SMILING EYES",
+      "unicode": "U+1F604"
+    },
+    {
+      "id": "builtin-emoji-1f605",
+      "fileName": "builtin-emoji-1f605.png",
+      "name": "表情 006",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "smiling face with open mouth and cold sweat",
+        "U+1F605"
+      ],
+      "description": "内置透明图片表情：SMILING FACE WITH OPEN MOUTH AND COLD SWEAT",
+      "unicode": "U+1F605"
+    },
+    {
+      "id": "builtin-emoji-1f606",
+      "fileName": "builtin-emoji-1f606.png",
+      "name": "表情 007",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "smiling face with open mouth and tightly closed eyes",
+        "U+1F606"
+      ],
+      "description": "内置透明图片表情：SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES",
+      "unicode": "U+1F606"
+    },
+    {
+      "id": "builtin-emoji-1f607",
+      "fileName": "builtin-emoji-1f607.png",
+      "name": "表情 008",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "smiling face with halo",
+        "U+1F607"
+      ],
+      "description": "内置透明图片表情：SMILING FACE WITH HALO",
+      "unicode": "U+1F607"
+    },
+    {
+      "id": "builtin-emoji-1f608",
+      "fileName": "builtin-emoji-1f608.png",
+      "name": "表情 009",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "smiling face with horns",
+        "U+1F608"
+      ],
+      "description": "内置透明图片表情：SMILING FACE WITH HORNS",
+      "unicode": "U+1F608"
+    },
+    {
+      "id": "builtin-emoji-1f609",
+      "fileName": "builtin-emoji-1f609.png",
+      "name": "开心 010",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "开心",
+        "winking face",
+        "U+1F609"
+      ],
+      "description": "内置透明图片表情：WINKING FACE",
+      "unicode": "U+1F609"
+    },
+    {
+      "id": "builtin-emoji-1f60a",
+      "fileName": "builtin-emoji-1f60a.png",
+      "name": "表情 011",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "smiling face with smiling eyes",
+        "U+1F60A"
+      ],
+      "description": "内置透明图片表情：SMILING FACE WITH SMILING EYES",
+      "unicode": "U+1F60A"
+    },
+    {
+      "id": "builtin-emoji-1f60b",
+      "fileName": "builtin-emoji-1f60b.png",
+      "name": "表情 012",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face savouring delicious food",
+        "U+1F60B"
+      ],
+      "description": "内置透明图片表情：FACE SAVOURING DELICIOUS FOOD",
+      "unicode": "U+1F60B"
+    },
+    {
+      "id": "builtin-emoji-1f60c",
+      "fileName": "builtin-emoji-1f60c.png",
+      "name": "表情 013",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "relieved face",
+        "U+1F60C"
+      ],
+      "description": "内置透明图片表情：RELIEVED FACE",
+      "unicode": "U+1F60C"
+    },
+    {
+      "id": "builtin-emoji-1f60d",
+      "fileName": "builtin-emoji-1f60d.png",
+      "name": "喜欢 014",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "喜欢",
+        "smiling face with heart shaped eyes",
+        "U+1F60D"
+      ],
+      "description": "内置透明图片表情：SMILING FACE WITH HEART-SHAPED EYES",
+      "unicode": "U+1F60D"
+    },
+    {
+      "id": "builtin-emoji-1f60e",
+      "fileName": "builtin-emoji-1f60e.png",
+      "name": "表情 015",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "smiling face with sunglasses",
+        "U+1F60E"
+      ],
+      "description": "内置透明图片表情：SMILING FACE WITH SUNGLASSES",
+      "unicode": "U+1F60E"
+    },
+    {
+      "id": "builtin-emoji-1f60f",
+      "fileName": "builtin-emoji-1f60f.png",
+      "name": "表情 016",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "smirking face",
+        "U+1F60F"
+      ],
+      "description": "内置透明图片表情：SMIRKING FACE",
+      "unicode": "U+1F60F"
+    },
+    {
+      "id": "builtin-emoji-1f610",
+      "fileName": "builtin-emoji-1f610.png",
+      "name": "表情 017",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "neutral face",
+        "U+1F610"
+      ],
+      "description": "内置透明图片表情：NEUTRAL FACE",
+      "unicode": "U+1F610"
+    },
+    {
+      "id": "builtin-emoji-1f611",
+      "fileName": "builtin-emoji-1f611.png",
+      "name": "表情 018",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "expressionless face",
+        "U+1F611"
+      ],
+      "description": "内置透明图片表情：EXPRESSIONLESS FACE",
+      "unicode": "U+1F611"
+    },
+    {
+      "id": "builtin-emoji-1f612",
+      "fileName": "builtin-emoji-1f612.png",
+      "name": "表情 019",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "unamused face",
+        "U+1F612"
+      ],
+      "description": "内置透明图片表情：UNAMUSED FACE",
+      "unicode": "U+1F612"
+    },
+    {
+      "id": "builtin-emoji-1f613",
+      "fileName": "builtin-emoji-1f613.png",
+      "name": "表情 020",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with cold sweat",
+        "U+1F613"
+      ],
+      "description": "内置透明图片表情：FACE WITH COLD SWEAT",
+      "unicode": "U+1F613"
+    },
+    {
+      "id": "builtin-emoji-1f614",
+      "fileName": "builtin-emoji-1f614.png",
+      "name": "表情 021",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "pensive face",
+        "U+1F614"
+      ],
+      "description": "内置透明图片表情：PENSIVE FACE",
+      "unicode": "U+1F614"
+    },
+    {
+      "id": "builtin-emoji-1f615",
+      "fileName": "builtin-emoji-1f615.png",
+      "name": "表情 022",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "confused face",
+        "U+1F615"
+      ],
+      "description": "内置透明图片表情：CONFUSED FACE",
+      "unicode": "U+1F615"
+    },
+    {
+      "id": "builtin-emoji-1f616",
+      "fileName": "builtin-emoji-1f616.png",
+      "name": "表情 023",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "confounded face",
+        "U+1F616"
+      ],
+      "description": "内置透明图片表情：CONFOUNDED FACE",
+      "unicode": "U+1F616"
+    },
+    {
+      "id": "builtin-emoji-1f617",
+      "fileName": "builtin-emoji-1f617.png",
+      "name": "喜欢 024",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "喜欢",
+        "kissing face",
+        "U+1F617"
+      ],
+      "description": "内置透明图片表情：KISSING FACE",
+      "unicode": "U+1F617"
+    },
+    {
+      "id": "builtin-emoji-1f618",
+      "fileName": "builtin-emoji-1f618.png",
+      "name": "喜欢 025",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "喜欢",
+        "face throwing a kiss",
+        "U+1F618"
+      ],
+      "description": "内置透明图片表情：FACE THROWING A KISS",
+      "unicode": "U+1F618"
+    },
+    {
+      "id": "builtin-emoji-1f619",
+      "fileName": "builtin-emoji-1f619.png",
+      "name": "喜欢 026",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "喜欢",
+        "kissing face with smiling eyes",
+        "U+1F619"
+      ],
+      "description": "内置透明图片表情：KISSING FACE WITH SMILING EYES",
+      "unicode": "U+1F619"
+    },
+    {
+      "id": "builtin-emoji-1f61a",
+      "fileName": "builtin-emoji-1f61a.png",
+      "name": "喜欢 027",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "喜欢",
+        "kissing face with closed eyes",
+        "U+1F61A"
+      ],
+      "description": "内置透明图片表情：KISSING FACE WITH CLOSED EYES",
+      "unicode": "U+1F61A"
+    },
+    {
+      "id": "builtin-emoji-1f61b",
+      "fileName": "builtin-emoji-1f61b.png",
+      "name": "表情 028",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with stuck out tongue",
+        "U+1F61B"
+      ],
+      "description": "内置透明图片表情：FACE WITH STUCK-OUT TONGUE",
+      "unicode": "U+1F61B"
+    },
+    {
+      "id": "builtin-emoji-1f61c",
+      "fileName": "builtin-emoji-1f61c.png",
+      "name": "开心 029",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "开心",
+        "face with stuck out tongue and winking eye",
+        "U+1F61C"
+      ],
+      "description": "内置透明图片表情：FACE WITH STUCK-OUT TONGUE AND WINKING EYE",
+      "unicode": "U+1F61C"
+    },
+    {
+      "id": "builtin-emoji-1f61d",
+      "fileName": "builtin-emoji-1f61d.png",
+      "name": "表情 030",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with stuck out tongue and tightly closed eyes",
+        "U+1F61D"
+      ],
+      "description": "内置透明图片表情：FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES",
+      "unicode": "U+1F61D"
+    },
+    {
+      "id": "builtin-emoji-1f61e",
+      "fileName": "builtin-emoji-1f61e.png",
+      "name": "表情 031",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "disappointed face",
+        "U+1F61E"
+      ],
+      "description": "内置透明图片表情：DISAPPOINTED FACE",
+      "unicode": "U+1F61E"
+    },
+    {
+      "id": "builtin-emoji-1f61f",
+      "fileName": "builtin-emoji-1f61f.png",
+      "name": "难过 032",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "难过",
+        "worried face",
+        "U+1F61F"
+      ],
+      "description": "内置透明图片表情：WORRIED FACE",
+      "unicode": "U+1F61F"
+    },
+    {
+      "id": "builtin-emoji-1f620",
+      "fileName": "builtin-emoji-1f620.png",
+      "name": "生气 033",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "生气",
+        "angry face",
+        "U+1F620"
+      ],
+      "description": "内置透明图片表情：ANGRY FACE",
+      "unicode": "U+1F620"
+    },
+    {
+      "id": "builtin-emoji-1f621",
+      "fileName": "builtin-emoji-1f621.png",
+      "name": "表情 034",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "pouting face",
+        "U+1F621"
+      ],
+      "description": "内置透明图片表情：POUTING FACE",
+      "unicode": "U+1F621"
+    },
+    {
+      "id": "builtin-emoji-1f622",
+      "fileName": "builtin-emoji-1f622.png",
+      "name": "难过 035",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "难过",
+        "crying face",
+        "U+1F622"
+      ],
+      "description": "内置透明图片表情：CRYING FACE",
+      "unicode": "U+1F622"
+    },
+    {
+      "id": "builtin-emoji-1f623",
+      "fileName": "builtin-emoji-1f623.png",
+      "name": "表情 036",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "persevering face",
+        "U+1F623"
+      ],
+      "description": "内置透明图片表情：PERSEVERING FACE",
+      "unicode": "U+1F623"
+    },
+    {
+      "id": "builtin-emoji-1f624",
+      "fileName": "builtin-emoji-1f624.png",
+      "name": "表情 037",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with look of triumph",
+        "U+1F624"
+      ],
+      "description": "内置透明图片表情：FACE WITH LOOK OF TRIUMPH",
+      "unicode": "U+1F624"
+    },
+    {
+      "id": "builtin-emoji-1f625",
+      "fileName": "builtin-emoji-1f625.png",
+      "name": "表情 038",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "disappointed but relieved face",
+        "U+1F625"
+      ],
+      "description": "内置透明图片表情：DISAPPOINTED BUT RELIEVED FACE",
+      "unicode": "U+1F625"
+    },
+    {
+      "id": "builtin-emoji-1f626",
+      "fileName": "builtin-emoji-1f626.png",
+      "name": "难过 039",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "难过",
+        "frowning face with open mouth",
+        "U+1F626"
+      ],
+      "description": "内置透明图片表情：FROWNING FACE WITH OPEN MOUTH",
+      "unicode": "U+1F626"
+    },
+    {
+      "id": "builtin-emoji-1f627",
+      "fileName": "builtin-emoji-1f627.png",
+      "name": "难过 040",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "难过",
+        "anguished face",
+        "U+1F627"
+      ],
+      "description": "内置透明图片表情：ANGUISHED FACE",
+      "unicode": "U+1F627"
+    },
+    {
+      "id": "builtin-emoji-1f628",
+      "fileName": "builtin-emoji-1f628.png",
+      "name": "难过 041",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "难过",
+        "fearful face",
+        "U+1F628"
+      ],
+      "description": "内置透明图片表情：FEARFUL FACE",
+      "unicode": "U+1F628"
+    },
+    {
+      "id": "builtin-emoji-1f629",
+      "fileName": "builtin-emoji-1f629.png",
+      "name": "表情 042",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "weary face",
+        "U+1F629"
+      ],
+      "description": "内置透明图片表情：WEARY FACE",
+      "unicode": "U+1F629"
+    },
+    {
+      "id": "builtin-emoji-1f62a",
+      "fileName": "builtin-emoji-1f62a.png",
+      "name": "表情 043",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "sleepy face",
+        "U+1F62A"
+      ],
+      "description": "内置透明图片表情：SLEEPY FACE",
+      "unicode": "U+1F62A"
+    },
+    {
+      "id": "builtin-emoji-1f62b",
+      "fileName": "builtin-emoji-1f62b.png",
+      "name": "表情 044",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "tired face",
+        "U+1F62B"
+      ],
+      "description": "内置透明图片表情：TIRED FACE",
+      "unicode": "U+1F62B"
+    },
+    {
+      "id": "builtin-emoji-1f62c",
+      "fileName": "builtin-emoji-1f62c.png",
+      "name": "表情 045",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "grimacing face",
+        "U+1F62C"
+      ],
+      "description": "内置透明图片表情：GRIMACING FACE",
+      "unicode": "U+1F62C"
+    },
+    {
+      "id": "builtin-emoji-1f62d",
+      "fileName": "builtin-emoji-1f62d.png",
+      "name": "难过 046",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "难过",
+        "loudly crying face",
+        "U+1F62D"
+      ],
+      "description": "内置透明图片表情：LOUDLY CRYING FACE",
+      "unicode": "U+1F62D"
+    },
+    {
+      "id": "builtin-emoji-1f62e",
+      "fileName": "builtin-emoji-1f62e.png",
+      "name": "表情 047",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with open mouth",
+        "U+1F62E"
+      ],
+      "description": "内置透明图片表情：FACE WITH OPEN MOUTH",
+      "unicode": "U+1F62E"
+    },
+    {
+      "id": "builtin-emoji-1f62f",
+      "fileName": "builtin-emoji-1f62f.png",
+      "name": "表情 048",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "hushed face",
+        "U+1F62F"
+      ],
+      "description": "内置透明图片表情：HUSHED FACE",
+      "unicode": "U+1F62F"
+    },
+    {
+      "id": "builtin-emoji-1f630",
+      "fileName": "builtin-emoji-1f630.png",
+      "name": "表情 049",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with open mouth and cold sweat",
+        "U+1F630"
+      ],
+      "description": "内置透明图片表情：FACE WITH OPEN MOUTH AND COLD SWEAT",
+      "unicode": "U+1F630"
+    },
+    {
+      "id": "builtin-emoji-1f631",
+      "fileName": "builtin-emoji-1f631.png",
+      "name": "难过 050",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "难过",
+        "face screaming in fear",
+        "U+1F631"
+      ],
+      "description": "内置透明图片表情：FACE SCREAMING IN FEAR",
+      "unicode": "U+1F631"
+    },
+    {
+      "id": "builtin-emoji-1f632",
+      "fileName": "builtin-emoji-1f632.png",
+      "name": "表情 051",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "astonished face",
+        "U+1F632"
+      ],
+      "description": "内置透明图片表情：ASTONISHED FACE",
+      "unicode": "U+1F632"
+    },
+    {
+      "id": "builtin-emoji-1f633",
+      "fileName": "builtin-emoji-1f633.png",
+      "name": "表情 052",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "flushed face",
+        "U+1F633"
+      ],
+      "description": "内置透明图片表情：FLUSHED FACE",
+      "unicode": "U+1F633"
+    },
+    {
+      "id": "builtin-emoji-1f634",
+      "fileName": "builtin-emoji-1f634.png",
+      "name": "表情 053",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "sleeping face",
+        "U+1F634"
+      ],
+      "description": "内置透明图片表情：SLEEPING FACE",
+      "unicode": "U+1F634"
+    },
+    {
+      "id": "builtin-emoji-1f635",
+      "fileName": "builtin-emoji-1f635.png",
+      "name": "表情 054",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "dizzy face",
+        "U+1F635"
+      ],
+      "description": "内置透明图片表情：DIZZY FACE",
+      "unicode": "U+1F635"
+    },
+    {
+      "id": "builtin-emoji-1f636",
+      "fileName": "builtin-emoji-1f636.png",
+      "name": "表情 055",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face without mouth",
+        "U+1F636"
+      ],
+      "description": "内置透明图片表情：FACE WITHOUT MOUTH",
+      "unicode": "U+1F636"
+    },
+    {
+      "id": "builtin-emoji-1f637",
+      "fileName": "builtin-emoji-1f637.png",
+      "name": "表情 056",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with medical mask",
+        "U+1F637"
+      ],
+      "description": "内置透明图片表情：FACE WITH MEDICAL MASK",
+      "unicode": "U+1F637"
+    },
+    {
+      "id": "builtin-emoji-1f638",
+      "fileName": "builtin-emoji-1f638.png",
+      "name": "开心 057",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "开心",
+        "grinning cat face with smiling eyes",
+        "U+1F638"
+      ],
+      "description": "内置透明图片表情：GRINNING CAT FACE WITH SMILING EYES",
+      "unicode": "U+1F638"
+    },
+    {
+      "id": "builtin-emoji-1f639",
+      "fileName": "builtin-emoji-1f639.png",
+      "name": "开心 058",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "开心",
+        "cat face with tears of joy",
+        "U+1F639"
+      ],
+      "description": "内置透明图片表情：CAT FACE WITH TEARS OF JOY",
+      "unicode": "U+1F639"
+    },
+    {
+      "id": "builtin-emoji-1f63a",
+      "fileName": "builtin-emoji-1f63a.png",
+      "name": "表情 059",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "smiling cat face with open mouth",
+        "U+1F63A"
+      ],
+      "description": "内置透明图片表情：SMILING CAT FACE WITH OPEN MOUTH",
+      "unicode": "U+1F63A"
+    },
+    {
+      "id": "builtin-emoji-1f63b",
+      "fileName": "builtin-emoji-1f63b.png",
+      "name": "喜欢 060",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "喜欢",
+        "smiling cat face with heart shaped eyes",
+        "U+1F63B"
+      ],
+      "description": "内置透明图片表情：SMILING CAT FACE WITH HEART-SHAPED EYES",
+      "unicode": "U+1F63B"
+    },
+    {
+      "id": "builtin-emoji-1f63c",
+      "fileName": "builtin-emoji-1f63c.png",
+      "name": "开心 061",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "开心",
+        "cat face with wry smile",
+        "U+1F63C"
+      ],
+      "description": "内置透明图片表情：CAT FACE WITH WRY SMILE",
+      "unicode": "U+1F63C"
+    },
+    {
+      "id": "builtin-emoji-1f63d",
+      "fileName": "builtin-emoji-1f63d.png",
+      "name": "喜欢 062",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "喜欢",
+        "kissing cat face with closed eyes",
+        "U+1F63D"
+      ],
+      "description": "内置透明图片表情：KISSING CAT FACE WITH CLOSED EYES",
+      "unicode": "U+1F63D"
+    },
+    {
+      "id": "builtin-emoji-1f63e",
+      "fileName": "builtin-emoji-1f63e.png",
+      "name": "表情 063",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "pouting cat face",
+        "U+1F63E"
+      ],
+      "description": "内置透明图片表情：POUTING CAT FACE",
+      "unicode": "U+1F63E"
+    },
+    {
+      "id": "builtin-emoji-1f63f",
+      "fileName": "builtin-emoji-1f63f.png",
+      "name": "难过 064",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "难过",
+        "crying cat face",
+        "U+1F63F"
+      ],
+      "description": "内置透明图片表情：CRYING CAT FACE",
+      "unicode": "U+1F63F"
+    },
+    {
+      "id": "builtin-emoji-1f640",
+      "fileName": "builtin-emoji-1f640.png",
+      "name": "表情 065",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "weary cat face",
+        "U+1F640"
+      ],
+      "description": "内置透明图片表情：WEARY CAT FACE",
+      "unicode": "U+1F640"
+    },
+    {
+      "id": "builtin-emoji-1f641",
+      "fileName": "builtin-emoji-1f641.png",
+      "name": "难过 066",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "难过",
+        "slightly frowning face",
+        "U+1F641"
+      ],
+      "description": "内置透明图片表情：SLIGHTLY FROWNING FACE",
+      "unicode": "U+1F641"
+    },
+    {
+      "id": "builtin-emoji-1f642",
+      "fileName": "builtin-emoji-1f642.png",
+      "name": "表情 067",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "slightly smiling face",
+        "U+1F642"
+      ],
+      "description": "内置透明图片表情：SLIGHTLY SMILING FACE",
+      "unicode": "U+1F642"
+    },
+    {
+      "id": "builtin-emoji-1f643",
+      "fileName": "builtin-emoji-1f643.png",
+      "name": "表情 068",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "upside down face",
+        "U+1F643"
+      ],
+      "description": "内置透明图片表情：UPSIDE-DOWN FACE",
+      "unicode": "U+1F643"
+    },
+    {
+      "id": "builtin-emoji-1f644",
+      "fileName": "builtin-emoji-1f644.png",
+      "name": "表情 069",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with rolling eyes",
+        "U+1F644"
+      ],
+      "description": "内置透明图片表情：FACE WITH ROLLING EYES",
+      "unicode": "U+1F644"
+    },
+    {
+      "id": "builtin-emoji-1f645",
+      "fileName": "builtin-emoji-1f645.png",
+      "name": "表情 070",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with no good gesture",
+        "U+1F645"
+      ],
+      "description": "内置透明图片表情：FACE WITH NO GOOD GESTURE",
+      "unicode": "U+1F645"
+    },
+    {
+      "id": "builtin-emoji-1f646",
+      "fileName": "builtin-emoji-1f646.png",
+      "name": "表情 071",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with ok gesture",
+        "U+1F646"
+      ],
+      "description": "内置透明图片表情：FACE WITH OK GESTURE",
+      "unicode": "U+1F646"
+    },
+    {
+      "id": "builtin-emoji-1f647",
+      "fileName": "builtin-emoji-1f647.png",
+      "name": "表情 072",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "person bowing deeply",
+        "U+1F647"
+      ],
+      "description": "内置透明图片表情：PERSON BOWING DEEPLY",
+      "unicode": "U+1F647"
+    },
+    {
+      "id": "builtin-emoji-1f648",
+      "fileName": "builtin-emoji-1f648.png",
+      "name": "表情 073",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "see no evil monkey",
+        "U+1F648"
+      ],
+      "description": "内置透明图片表情：SEE-NO-EVIL MONKEY",
+      "unicode": "U+1F648"
+    },
+    {
+      "id": "builtin-emoji-1f649",
+      "fileName": "builtin-emoji-1f649.png",
+      "name": "表情 074",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "hear no evil monkey",
+        "U+1F649"
+      ],
+      "description": "内置透明图片表情：HEAR-NO-EVIL MONKEY",
+      "unicode": "U+1F649"
+    },
+    {
+      "id": "builtin-emoji-1f64a",
+      "fileName": "builtin-emoji-1f64a.png",
+      "name": "表情 075",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "speak no evil monkey",
+        "U+1F64A"
+      ],
+      "description": "内置透明图片表情：SPEAK-NO-EVIL MONKEY",
+      "unicode": "U+1F64A"
+    },
+    {
+      "id": "builtin-emoji-1f64b",
+      "fileName": "builtin-emoji-1f64b.png",
+      "name": "表情 076",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "happy person raising one hand",
+        "U+1F64B"
+      ],
+      "description": "内置透明图片表情：HAPPY PERSON RAISING ONE HAND",
+      "unicode": "U+1F64B"
+    },
+    {
+      "id": "builtin-emoji-1f64c",
+      "fileName": "builtin-emoji-1f64c.png",
+      "name": "表情 077",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "person raising both hands in celebration",
+        "U+1F64C"
+      ],
+      "description": "内置透明图片表情：PERSON RAISING BOTH HANDS IN CELEBRATION",
+      "unicode": "U+1F64C"
+    },
+    {
+      "id": "builtin-emoji-1f64d",
+      "fileName": "builtin-emoji-1f64d.png",
+      "name": "难过 078",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "难过",
+        "person frowning",
+        "U+1F64D"
+      ],
+      "description": "内置透明图片表情：PERSON FROWNING",
+      "unicode": "U+1F64D"
+    },
+    {
+      "id": "builtin-emoji-1f64e",
+      "fileName": "builtin-emoji-1f64e.png",
+      "name": "表情 079",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "person with pouting face",
+        "U+1F64E"
+      ],
+      "description": "内置透明图片表情：PERSON WITH POUTING FACE",
+      "unicode": "U+1F64E"
+    },
+    {
+      "id": "builtin-emoji-1f64f",
+      "fileName": "builtin-emoji-1f64f.png",
+      "name": "表情 080",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "person with folded hands",
+        "U+1F64F"
+      ],
+      "description": "内置透明图片表情：PERSON WITH FOLDED HANDS",
+      "unicode": "U+1F64F"
+    },
+    {
+      "id": "builtin-emoji-1f900",
+      "fileName": "builtin-emoji-1f900.png",
+      "name": "日常 081",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "circled cross formee with four dots",
+        "U+1F900"
+      ],
+      "description": "内置透明图片表情：CIRCLED CROSS FORMEE WITH FOUR DOTS",
+      "unicode": "U+1F900"
+    },
+    {
+      "id": "builtin-emoji-1f90c",
+      "fileName": "builtin-emoji-1f90c.png",
+      "name": "手势 082",
+      "category": "手势",
+      "tags": [
+        "手势",
+        "手势",
+        "pinched fingers",
+        "U+1F90C"
+      ],
+      "description": "内置透明图片表情：PINCHED FINGERS",
+      "unicode": "U+1F90C"
+    },
+    {
+      "id": "builtin-emoji-1f90d",
+      "fileName": "builtin-emoji-1f90d.png",
+      "name": "喜欢 083",
+      "category": "爱意",
+      "tags": [
+        "爱意",
+        "喜欢",
+        "white heart",
+        "U+1F90D"
+      ],
+      "description": "内置透明图片表情：WHITE HEART",
+      "unicode": "U+1F90D"
+    },
+    {
+      "id": "builtin-emoji-1f90e",
+      "fileName": "builtin-emoji-1f90e.png",
+      "name": "喜欢 084",
+      "category": "爱意",
+      "tags": [
+        "爱意",
+        "喜欢",
+        "brown heart",
+        "U+1F90E"
+      ],
+      "description": "内置透明图片表情：BROWN HEART",
+      "unicode": "U+1F90E"
+    },
+    {
+      "id": "builtin-emoji-1f90f",
+      "fileName": "builtin-emoji-1f90f.png",
+      "name": "手势 085",
+      "category": "手势",
+      "tags": [
+        "手势",
+        "手势",
+        "pinching hand",
+        "U+1F90F"
+      ],
+      "description": "内置透明图片表情：PINCHING HAND",
+      "unicode": "U+1F90F"
+    },
+    {
+      "id": "builtin-emoji-1f910",
+      "fileName": "builtin-emoji-1f910.png",
+      "name": "表情 086",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "zipper mouth face",
+        "U+1F910"
+      ],
+      "description": "内置透明图片表情：ZIPPER-MOUTH FACE",
+      "unicode": "U+1F910"
+    },
+    {
+      "id": "builtin-emoji-1f911",
+      "fileName": "builtin-emoji-1f911.png",
+      "name": "表情 087",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "money mouth face",
+        "U+1F911"
+      ],
+      "description": "内置透明图片表情：MONEY-MOUTH FACE",
+      "unicode": "U+1F911"
+    },
+    {
+      "id": "builtin-emoji-1f912",
+      "fileName": "builtin-emoji-1f912.png",
+      "name": "表情 088",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with thermometer",
+        "U+1F912"
+      ],
+      "description": "内置透明图片表情：FACE WITH THERMOMETER",
+      "unicode": "U+1F912"
+    },
+    {
+      "id": "builtin-emoji-1f913",
+      "fileName": "builtin-emoji-1f913.png",
+      "name": "表情 089",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "nerd face",
+        "U+1F913"
+      ],
+      "description": "内置透明图片表情：NERD FACE",
+      "unicode": "U+1F913"
+    },
+    {
+      "id": "builtin-emoji-1f914",
+      "fileName": "builtin-emoji-1f914.png",
+      "name": "表情 090",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "thinking face",
+        "U+1F914"
+      ],
+      "description": "内置透明图片表情：THINKING FACE",
+      "unicode": "U+1F914"
+    },
+    {
+      "id": "builtin-emoji-1f915",
+      "fileName": "builtin-emoji-1f915.png",
+      "name": "表情 091",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with head bandage",
+        "U+1F915"
+      ],
+      "description": "内置透明图片表情：FACE WITH HEAD-BANDAGE",
+      "unicode": "U+1F915"
+    },
+    {
+      "id": "builtin-emoji-1f916",
+      "fileName": "builtin-emoji-1f916.png",
+      "name": "表情 092",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "robot face",
+        "U+1F916"
+      ],
+      "description": "内置透明图片表情：ROBOT FACE",
+      "unicode": "U+1F916"
+    },
+    {
+      "id": "builtin-emoji-1f917",
+      "fileName": "builtin-emoji-1f917.png",
+      "name": "表情 093",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "hugging face",
+        "U+1F917"
+      ],
+      "description": "内置透明图片表情：HUGGING FACE",
+      "unicode": "U+1F917"
+    },
+    {
+      "id": "builtin-emoji-1f918",
+      "fileName": "builtin-emoji-1f918.png",
+      "name": "日常 094",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "sign of the horns",
+        "U+1F918"
+      ],
+      "description": "内置透明图片表情：SIGN OF THE HORNS",
+      "unicode": "U+1F918"
+    },
+    {
+      "id": "builtin-emoji-1f919",
+      "fileName": "builtin-emoji-1f919.png",
+      "name": "手势 095",
+      "category": "手势",
+      "tags": [
+        "手势",
+        "手势",
+        "call me hand",
+        "U+1F919"
+      ],
+      "description": "内置透明图片表情：CALL ME HAND",
+      "unicode": "U+1F919"
+    },
+    {
+      "id": "builtin-emoji-1f91a",
+      "fileName": "builtin-emoji-1f91a.png",
+      "name": "手势 096",
+      "category": "手势",
+      "tags": [
+        "手势",
+        "手势",
+        "raised back of hand",
+        "U+1F91A"
+      ],
+      "description": "内置透明图片表情：RAISED BACK OF HAND",
+      "unicode": "U+1F91A"
+    },
+    {
+      "id": "builtin-emoji-1f91b",
+      "fileName": "builtin-emoji-1f91b.png",
+      "name": "手势 097",
+      "category": "手势",
+      "tags": [
+        "手势",
+        "手势",
+        "left facing fist",
+        "U+1F91B"
+      ],
+      "description": "内置透明图片表情：LEFT-FACING FIST",
+      "unicode": "U+1F91B"
+    },
+    {
+      "id": "builtin-emoji-1f91c",
+      "fileName": "builtin-emoji-1f91c.png",
+      "name": "手势 098",
+      "category": "手势",
+      "tags": [
+        "手势",
+        "手势",
+        "right facing fist",
+        "U+1F91C"
+      ],
+      "description": "内置透明图片表情：RIGHT-FACING FIST",
+      "unicode": "U+1F91C"
+    },
+    {
+      "id": "builtin-emoji-1f91d",
+      "fileName": "builtin-emoji-1f91d.png",
+      "name": "手势 099",
+      "category": "手势",
+      "tags": [
+        "手势",
+        "手势",
+        "handshake",
+        "U+1F91D"
+      ],
+      "description": "内置透明图片表情：HANDSHAKE",
+      "unicode": "U+1F91D"
+    },
+    {
+      "id": "builtin-emoji-1f91e",
+      "fileName": "builtin-emoji-1f91e.png",
+      "name": "手势 100",
+      "category": "手势",
+      "tags": [
+        "手势",
+        "手势",
+        "hand with index and middle fingers crossed",
+        "U+1F91E"
+      ],
+      "description": "内置透明图片表情：HAND WITH INDEX AND MIDDLE FINGERS CROSSED",
+      "unicode": "U+1F91E"
+    },
+    {
+      "id": "builtin-emoji-1f91f",
+      "fileName": "builtin-emoji-1f91f.png",
+      "name": "手势 101",
+      "category": "手势",
+      "tags": [
+        "手势",
+        "手势",
+        "i love you hand sign",
+        "U+1F91F"
+      ],
+      "description": "内置透明图片表情：I LOVE YOU HAND SIGN",
+      "unicode": "U+1F91F"
+    },
+    {
+      "id": "builtin-emoji-1f920",
+      "fileName": "builtin-emoji-1f920.png",
+      "name": "表情 102",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with cowboy hat",
+        "U+1F920"
+      ],
+      "description": "内置透明图片表情：FACE WITH COWBOY HAT",
+      "unicode": "U+1F920"
+    },
+    {
+      "id": "builtin-emoji-1f921",
+      "fileName": "builtin-emoji-1f921.png",
+      "name": "表情 103",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "clown face",
+        "U+1F921"
+      ],
+      "description": "内置透明图片表情：CLOWN FACE",
+      "unicode": "U+1F921"
+    },
+    {
+      "id": "builtin-emoji-1f922",
+      "fileName": "builtin-emoji-1f922.png",
+      "name": "表情 104",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "nauseated face",
+        "U+1F922"
+      ],
+      "description": "内置透明图片表情：NAUSEATED FACE",
+      "unicode": "U+1F922"
+    },
+    {
+      "id": "builtin-emoji-1f923",
+      "fileName": "builtin-emoji-1f923.png",
+      "name": "日常 105",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "rolling on the floor laughing",
+        "U+1F923"
+      ],
+      "description": "内置透明图片表情：ROLLING ON THE FLOOR LAUGHING",
+      "unicode": "U+1F923"
+    },
+    {
+      "id": "builtin-emoji-1f924",
+      "fileName": "builtin-emoji-1f924.png",
+      "name": "表情 106",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "drooling face",
+        "U+1F924"
+      ],
+      "description": "内置透明图片表情：DROOLING FACE",
+      "unicode": "U+1F924"
+    },
+    {
+      "id": "builtin-emoji-1f925",
+      "fileName": "builtin-emoji-1f925.png",
+      "name": "表情 107",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "lying face",
+        "U+1F925"
+      ],
+      "description": "内置透明图片表情：LYING FACE",
+      "unicode": "U+1F925"
+    },
+    {
+      "id": "builtin-emoji-1f926",
+      "fileName": "builtin-emoji-1f926.png",
+      "name": "表情 108",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face palm",
+        "U+1F926"
+      ],
+      "description": "内置透明图片表情：FACE PALM",
+      "unicode": "U+1F926"
+    },
+    {
+      "id": "builtin-emoji-1f927",
+      "fileName": "builtin-emoji-1f927.png",
+      "name": "表情 109",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "sneezing face",
+        "U+1F927"
+      ],
+      "description": "内置透明图片表情：SNEEZING FACE",
+      "unicode": "U+1F927"
+    },
+    {
+      "id": "builtin-emoji-1f928",
+      "fileName": "builtin-emoji-1f928.png",
+      "name": "表情 110",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with one eyebrow raised",
+        "U+1F928"
+      ],
+      "description": "内置透明图片表情：FACE WITH ONE EYEBROW RAISED",
+      "unicode": "U+1F928"
+    },
+    {
+      "id": "builtin-emoji-1f929",
+      "fileName": "builtin-emoji-1f929.png",
+      "name": "开心 111",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "开心",
+        "grinning face with star eyes",
+        "U+1F929"
+      ],
+      "description": "内置透明图片表情：GRINNING FACE WITH STAR EYES",
+      "unicode": "U+1F929"
+    },
+    {
+      "id": "builtin-emoji-1f92a",
+      "fileName": "builtin-emoji-1f92a.png",
+      "name": "开心 112",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "开心",
+        "grinning face with one large and one small eye",
+        "U+1F92A"
+      ],
+      "description": "内置透明图片表情：GRINNING FACE WITH ONE LARGE AND ONE SMALL EYE",
+      "unicode": "U+1F92A"
+    },
+    {
+      "id": "builtin-emoji-1f92b",
+      "fileName": "builtin-emoji-1f92b.png",
+      "name": "表情 113",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with finger covering closed lips",
+        "U+1F92B"
+      ],
+      "description": "内置透明图片表情：FACE WITH FINGER COVERING CLOSED LIPS",
+      "unicode": "U+1F92B"
+    },
+    {
+      "id": "builtin-emoji-1f92c",
+      "fileName": "builtin-emoji-1f92c.png",
+      "name": "表情 114",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "serious face with symbols covering mouth",
+        "U+1F92C"
+      ],
+      "description": "内置透明图片表情：SERIOUS FACE WITH SYMBOLS COVERING MOUTH",
+      "unicode": "U+1F92C"
+    },
+    {
+      "id": "builtin-emoji-1f92d",
+      "fileName": "builtin-emoji-1f92d.png",
+      "name": "表情 115",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "smiling face with smiling eyes and hand covering mouth",
+        "U+1F92D"
+      ],
+      "description": "内置透明图片表情：SMILING FACE WITH SMILING EYES AND HAND COVERING MOUTH",
+      "unicode": "U+1F92D"
+    },
+    {
+      "id": "builtin-emoji-1f92e",
+      "fileName": "builtin-emoji-1f92e.png",
+      "name": "表情 116",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with open mouth vomiting",
+        "U+1F92E"
+      ],
+      "description": "内置透明图片表情：FACE WITH OPEN MOUTH VOMITING",
+      "unicode": "U+1F92E"
+    },
+    {
+      "id": "builtin-emoji-1f92f",
+      "fileName": "builtin-emoji-1f92f.png",
+      "name": "表情 117",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "shocked face with exploding head",
+        "U+1F92F"
+      ],
+      "description": "内置透明图片表情：SHOCKED FACE WITH EXPLODING HEAD",
+      "unicode": "U+1F92F"
+    },
+    {
+      "id": "builtin-emoji-1f930",
+      "fileName": "builtin-emoji-1f930.png",
+      "name": "日常 118",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "pregnant woman",
+        "U+1F930"
+      ],
+      "description": "内置透明图片表情：PREGNANT WOMAN",
+      "unicode": "U+1F930"
+    },
+    {
+      "id": "builtin-emoji-1f931",
+      "fileName": "builtin-emoji-1f931.png",
+      "name": "日常 119",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "breast feeding",
+        "U+1F931"
+      ],
+      "description": "内置透明图片表情：BREAST-FEEDING",
+      "unicode": "U+1F931"
+    },
+    {
+      "id": "builtin-emoji-1f932",
+      "fileName": "builtin-emoji-1f932.png",
+      "name": "日常 120",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "palms up together",
+        "U+1F932"
+      ],
+      "description": "内置透明图片表情：PALMS UP TOGETHER",
+      "unicode": "U+1F932"
+    },
+    {
+      "id": "builtin-emoji-1f933",
+      "fileName": "builtin-emoji-1f933.png",
+      "name": "日常 121",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "selfie",
+        "U+1F933"
+      ],
+      "description": "内置透明图片表情：SELFIE",
+      "unicode": "U+1F933"
+    },
+    {
+      "id": "builtin-emoji-1f934",
+      "fileName": "builtin-emoji-1f934.png",
+      "name": "日常 122",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "prince",
+        "U+1F934"
+      ],
+      "description": "内置透明图片表情：PRINCE",
+      "unicode": "U+1F934"
+    },
+    {
+      "id": "builtin-emoji-1f935",
+      "fileName": "builtin-emoji-1f935.png",
+      "name": "日常 123",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "man in tuxedo",
+        "U+1F935"
+      ],
+      "description": "内置透明图片表情：MAN IN TUXEDO",
+      "unicode": "U+1F935"
+    },
+    {
+      "id": "builtin-emoji-1f936",
+      "fileName": "builtin-emoji-1f936.png",
+      "name": "日常 124",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "mother christmas",
+        "U+1F936"
+      ],
+      "description": "内置透明图片表情：MOTHER CHRISTMAS",
+      "unicode": "U+1F936"
+    },
+    {
+      "id": "builtin-emoji-1f937",
+      "fileName": "builtin-emoji-1f937.png",
+      "name": "日常 125",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "shrug",
+        "U+1F937"
+      ],
+      "description": "内置透明图片表情：SHRUG",
+      "unicode": "U+1F937"
+    },
+    {
+      "id": "builtin-emoji-1f938",
+      "fileName": "builtin-emoji-1f938.png",
+      "name": "日常 126",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "person doing cartwheel",
+        "U+1F938"
+      ],
+      "description": "内置透明图片表情：PERSON DOING CARTWHEEL",
+      "unicode": "U+1F938"
+    },
+    {
+      "id": "builtin-emoji-1f939",
+      "fileName": "builtin-emoji-1f939.png",
+      "name": "日常 127",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "juggling",
+        "U+1F939"
+      ],
+      "description": "内置透明图片表情：JUGGLING",
+      "unicode": "U+1F939"
+    },
+    {
+      "id": "builtin-emoji-1f93a",
+      "fileName": "builtin-emoji-1f93a.png",
+      "name": "日常 128",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "fencer",
+        "U+1F93A"
+      ],
+      "description": "内置透明图片表情：FENCER",
+      "unicode": "U+1F93A"
+    },
+    {
+      "id": "builtin-emoji-1f93c",
+      "fileName": "builtin-emoji-1f93c.png",
+      "name": "日常 129",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "wrestlers",
+        "U+1F93C"
+      ],
+      "description": "内置透明图片表情：WRESTLERS",
+      "unicode": "U+1F93C"
+    },
+    {
+      "id": "builtin-emoji-1f93d",
+      "fileName": "builtin-emoji-1f93d.png",
+      "name": "日常 130",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "water polo",
+        "U+1F93D"
+      ],
+      "description": "内置透明图片表情：WATER POLO",
+      "unicode": "U+1F93D"
+    },
+    {
+      "id": "builtin-emoji-1f93e",
+      "fileName": "builtin-emoji-1f93e.png",
+      "name": "手势 131",
+      "category": "手势",
+      "tags": [
+        "手势",
+        "手势",
+        "handball",
+        "U+1F93E"
+      ],
+      "description": "内置透明图片表情：HANDBALL",
+      "unicode": "U+1F93E"
+    },
+    {
+      "id": "builtin-emoji-1f93f",
+      "fileName": "builtin-emoji-1f93f.png",
+      "name": "日常 132",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "diving mask",
+        "U+1F93F"
+      ],
+      "description": "内置透明图片表情：DIVING MASK",
+      "unicode": "U+1F93F"
+    },
+    {
+      "id": "builtin-emoji-1f940",
+      "fileName": "builtin-emoji-1f940.png",
+      "name": "日常 133",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "wilted flower",
+        "U+1F940"
+      ],
+      "description": "内置透明图片表情：WILTED FLOWER",
+      "unicode": "U+1F940"
+    },
+    {
+      "id": "builtin-emoji-1f941",
+      "fileName": "builtin-emoji-1f941.png",
+      "name": "日常 134",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "drum with drumsticks",
+        "U+1F941"
+      ],
+      "description": "内置透明图片表情：DRUM WITH DRUMSTICKS",
+      "unicode": "U+1F941"
+    },
+    {
+      "id": "builtin-emoji-1f942",
+      "fileName": "builtin-emoji-1f942.png",
+      "name": "日常 135",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "clinking glasses",
+        "U+1F942"
+      ],
+      "description": "内置透明图片表情：CLINKING GLASSES",
+      "unicode": "U+1F942"
+    },
+    {
+      "id": "builtin-emoji-1f943",
+      "fileName": "builtin-emoji-1f943.png",
+      "name": "日常 136",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "tumbler glass",
+        "U+1F943"
+      ],
+      "description": "内置透明图片表情：TUMBLER GLASS",
+      "unicode": "U+1F943"
+    },
+    {
+      "id": "builtin-emoji-1f944",
+      "fileName": "builtin-emoji-1f944.png",
+      "name": "日常 137",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "spoon",
+        "U+1F944"
+      ],
+      "description": "内置透明图片表情：SPOON",
+      "unicode": "U+1F944"
+    },
+    {
+      "id": "builtin-emoji-1f945",
+      "fileName": "builtin-emoji-1f945.png",
+      "name": "日常 138",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "goal net",
+        "U+1F945"
+      ],
+      "description": "内置透明图片表情：GOAL NET",
+      "unicode": "U+1F945"
+    },
+    {
+      "id": "builtin-emoji-1f947",
+      "fileName": "builtin-emoji-1f947.png",
+      "name": "活动 139",
+      "category": "活动",
+      "tags": [
+        "活动",
+        "活动",
+        "first place medal",
+        "U+1F947"
+      ],
+      "description": "内置透明图片表情：FIRST PLACE MEDAL",
+      "unicode": "U+1F947"
+    },
+    {
+      "id": "builtin-emoji-1f948",
+      "fileName": "builtin-emoji-1f948.png",
+      "name": "活动 140",
+      "category": "活动",
+      "tags": [
+        "活动",
+        "活动",
+        "second place medal",
+        "U+1F948"
+      ],
+      "description": "内置透明图片表情：SECOND PLACE MEDAL",
+      "unicode": "U+1F948"
+    },
+    {
+      "id": "builtin-emoji-1f949",
+      "fileName": "builtin-emoji-1f949.png",
+      "name": "活动 141",
+      "category": "活动",
+      "tags": [
+        "活动",
+        "活动",
+        "third place medal",
+        "U+1F949"
+      ],
+      "description": "内置透明图片表情：THIRD PLACE MEDAL",
+      "unicode": "U+1F949"
+    },
+    {
+      "id": "builtin-emoji-1f94a",
+      "fileName": "builtin-emoji-1f94a.png",
+      "name": "喜欢 142",
+      "category": "爱意",
+      "tags": [
+        "爱意",
+        "喜欢",
+        "boxing glove",
+        "U+1F94A"
+      ],
+      "description": "内置透明图片表情：BOXING GLOVE",
+      "unicode": "U+1F94A"
+    },
+    {
+      "id": "builtin-emoji-1f94b",
+      "fileName": "builtin-emoji-1f94b.png",
+      "name": "日常 143",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "martial arts uniform",
+        "U+1F94B"
+      ],
+      "description": "内置透明图片表情：MARTIAL ARTS UNIFORM",
+      "unicode": "U+1F94B"
+    },
+    {
+      "id": "builtin-emoji-1f94c",
+      "fileName": "builtin-emoji-1f94c.png",
+      "name": "日常 144",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "curling stone",
+        "U+1F94C"
+      ],
+      "description": "内置透明图片表情：CURLING STONE",
+      "unicode": "U+1F94C"
+    },
+    {
+      "id": "builtin-emoji-1f94d",
+      "fileName": "builtin-emoji-1f94d.png",
+      "name": "活动 145",
+      "category": "活动",
+      "tags": [
+        "活动",
+        "活动",
+        "lacrosse stick and ball",
+        "U+1F94D"
+      ],
+      "description": "内置透明图片表情：LACROSSE STICK AND BALL",
+      "unicode": "U+1F94D"
+    },
+    {
+      "id": "builtin-emoji-1f94e",
+      "fileName": "builtin-emoji-1f94e.png",
+      "name": "活动 146",
+      "category": "活动",
+      "tags": [
+        "活动",
+        "活动",
+        "softball",
+        "U+1F94E"
+      ],
+      "description": "内置透明图片表情：SOFTBALL",
+      "unicode": "U+1F94E"
+    },
+    {
+      "id": "builtin-emoji-1f94f",
+      "fileName": "builtin-emoji-1f94f.png",
+      "name": "日常 147",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "flying disc",
+        "U+1F94F"
+      ],
+      "description": "内置透明图片表情：FLYING DISC",
+      "unicode": "U+1F94F"
+    },
+    {
+      "id": "builtin-emoji-1f950",
+      "fileName": "builtin-emoji-1f950.png",
+      "name": "日常 148",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "croissant",
+        "U+1F950"
+      ],
+      "description": "内置透明图片表情：CROISSANT",
+      "unicode": "U+1F950"
+    },
+    {
+      "id": "builtin-emoji-1f951",
+      "fileName": "builtin-emoji-1f951.png",
+      "name": "日常 149",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "avocado",
+        "U+1F951"
+      ],
+      "description": "内置透明图片表情：AVOCADO",
+      "unicode": "U+1F951"
+    },
+    {
+      "id": "builtin-emoji-1f952",
+      "fileName": "builtin-emoji-1f952.png",
+      "name": "日常 150",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "cucumber",
+        "U+1F952"
+      ],
+      "description": "内置透明图片表情：CUCUMBER",
+      "unicode": "U+1F952"
+    },
+    {
+      "id": "builtin-emoji-1f953",
+      "fileName": "builtin-emoji-1f953.png",
+      "name": "日常 151",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "bacon",
+        "U+1F953"
+      ],
+      "description": "内置透明图片表情：BACON",
+      "unicode": "U+1F953"
+    },
+    {
+      "id": "builtin-emoji-1f954",
+      "fileName": "builtin-emoji-1f954.png",
+      "name": "日常 152",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "potato",
+        "U+1F954"
+      ],
+      "description": "内置透明图片表情：POTATO",
+      "unicode": "U+1F954"
+    },
+    {
+      "id": "builtin-emoji-1f955",
+      "fileName": "builtin-emoji-1f955.png",
+      "name": "日常 153",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "carrot",
+        "U+1F955"
+      ],
+      "description": "内置透明图片表情：CARROT",
+      "unicode": "U+1F955"
+    },
+    {
+      "id": "builtin-emoji-1f956",
+      "fileName": "builtin-emoji-1f956.png",
+      "name": "吃喝 154",
+      "category": "吃喝",
+      "tags": [
+        "吃喝",
+        "吃喝",
+        "baguette bread",
+        "U+1F956"
+      ],
+      "description": "内置透明图片表情：BAGUETTE BREAD",
+      "unicode": "U+1F956"
+    },
+    {
+      "id": "builtin-emoji-1f957",
+      "fileName": "builtin-emoji-1f957.png",
+      "name": "日常 155",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "green salad",
+        "U+1F957"
+      ],
+      "description": "内置透明图片表情：GREEN SALAD",
+      "unicode": "U+1F957"
+    },
+    {
+      "id": "builtin-emoji-1f958",
+      "fileName": "builtin-emoji-1f958.png",
+      "name": "吃喝 156",
+      "category": "吃喝",
+      "tags": [
+        "吃喝",
+        "吃喝",
+        "shallow pan of food",
+        "U+1F958"
+      ],
+      "description": "内置透明图片表情：SHALLOW PAN OF FOOD",
+      "unicode": "U+1F958"
+    },
+    {
+      "id": "builtin-emoji-1f959",
+      "fileName": "builtin-emoji-1f959.png",
+      "name": "吃喝 157",
+      "category": "吃喝",
+      "tags": [
+        "吃喝",
+        "吃喝",
+        "stuffed flatbread",
+        "U+1F959"
+      ],
+      "description": "内置透明图片表情：STUFFED FLATBREAD",
+      "unicode": "U+1F959"
+    },
+    {
+      "id": "builtin-emoji-1f95a",
+      "fileName": "builtin-emoji-1f95a.png",
+      "name": "日常 158",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "egg",
+        "U+1F95A"
+      ],
+      "description": "内置透明图片表情：EGG",
+      "unicode": "U+1F95A"
+    },
+    {
+      "id": "builtin-emoji-1f95b",
+      "fileName": "builtin-emoji-1f95b.png",
+      "name": "日常 159",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "glass of milk",
+        "U+1F95B"
+      ],
+      "description": "内置透明图片表情：GLASS OF MILK",
+      "unicode": "U+1F95B"
+    },
+    {
+      "id": "builtin-emoji-1f95c",
+      "fileName": "builtin-emoji-1f95c.png",
+      "name": "日常 160",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "peanuts",
+        "U+1F95C"
+      ],
+      "description": "内置透明图片表情：PEANUTS",
+      "unicode": "U+1F95C"
+    },
+    {
+      "id": "builtin-emoji-1f95d",
+      "fileName": "builtin-emoji-1f95d.png",
+      "name": "吃喝 161",
+      "category": "吃喝",
+      "tags": [
+        "吃喝",
+        "吃喝",
+        "kiwifruit",
+        "U+1F95D"
+      ],
+      "description": "内置透明图片表情：KIWIFRUIT",
+      "unicode": "U+1F95D"
+    },
+    {
+      "id": "builtin-emoji-1f95e",
+      "fileName": "builtin-emoji-1f95e.png",
+      "name": "吃喝 162",
+      "category": "吃喝",
+      "tags": [
+        "吃喝",
+        "吃喝",
+        "pancakes",
+        "U+1F95E"
+      ],
+      "description": "内置透明图片表情：PANCAKES",
+      "unicode": "U+1F95E"
+    },
+    {
+      "id": "builtin-emoji-1f95f",
+      "fileName": "builtin-emoji-1f95f.png",
+      "name": "日常 163",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "dumpling",
+        "U+1F95F"
+      ],
+      "description": "内置透明图片表情：DUMPLING",
+      "unicode": "U+1F95F"
+    },
+    {
+      "id": "builtin-emoji-1f960",
+      "fileName": "builtin-emoji-1f960.png",
+      "name": "日常 164",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "fortune cookie",
+        "U+1F960"
+      ],
+      "description": "内置透明图片表情：FORTUNE COOKIE",
+      "unicode": "U+1F960"
+    },
+    {
+      "id": "builtin-emoji-1f961",
+      "fileName": "builtin-emoji-1f961.png",
+      "name": "日常 165",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "takeout box",
+        "U+1F961"
+      ],
+      "description": "内置透明图片表情：TAKEOUT BOX",
+      "unicode": "U+1F961"
+    },
+    {
+      "id": "builtin-emoji-1f962",
+      "fileName": "builtin-emoji-1f962.png",
+      "name": "日常 166",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "chopsticks",
+        "U+1F962"
+      ],
+      "description": "内置透明图片表情：CHOPSTICKS",
+      "unicode": "U+1F962"
+    },
+    {
+      "id": "builtin-emoji-1f963",
+      "fileName": "builtin-emoji-1f963.png",
+      "name": "吃喝 167",
+      "category": "吃喝",
+      "tags": [
+        "吃喝",
+        "吃喝",
+        "bowl with spoon",
+        "U+1F963"
+      ],
+      "description": "内置透明图片表情：BOWL WITH SPOON",
+      "unicode": "U+1F963"
+    },
+    {
+      "id": "builtin-emoji-1f964",
+      "fileName": "builtin-emoji-1f964.png",
+      "name": "吃喝 168",
+      "category": "吃喝",
+      "tags": [
+        "吃喝",
+        "吃喝",
+        "cup with straw",
+        "U+1F964"
+      ],
+      "description": "内置透明图片表情：CUP WITH STRAW",
+      "unicode": "U+1F964"
+    },
+    {
+      "id": "builtin-emoji-1f965",
+      "fileName": "builtin-emoji-1f965.png",
+      "name": "日常 169",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "coconut",
+        "U+1F965"
+      ],
+      "description": "内置透明图片表情：COCONUT",
+      "unicode": "U+1F965"
+    },
+    {
+      "id": "builtin-emoji-1f966",
+      "fileName": "builtin-emoji-1f966.png",
+      "name": "日常 170",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "broccoli",
+        "U+1F966"
+      ],
+      "description": "内置透明图片表情：BROCCOLI",
+      "unicode": "U+1F966"
+    },
+    {
+      "id": "builtin-emoji-1f967",
+      "fileName": "builtin-emoji-1f967.png",
+      "name": "日常 171",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "pie",
+        "U+1F967"
+      ],
+      "description": "内置透明图片表情：PIE",
+      "unicode": "U+1F967"
+    },
+    {
+      "id": "builtin-emoji-1f968",
+      "fileName": "builtin-emoji-1f968.png",
+      "name": "日常 172",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "pretzel",
+        "U+1F968"
+      ],
+      "description": "内置透明图片表情：PRETZEL",
+      "unicode": "U+1F968"
+    },
+    {
+      "id": "builtin-emoji-1f969",
+      "fileName": "builtin-emoji-1f969.png",
+      "name": "吃喝 173",
+      "category": "吃喝",
+      "tags": [
+        "吃喝",
+        "吃喝",
+        "cut of meat",
+        "U+1F969"
+      ],
+      "description": "内置透明图片表情：CUT OF MEAT",
+      "unicode": "U+1F969"
+    },
+    {
+      "id": "builtin-emoji-1f96a",
+      "fileName": "builtin-emoji-1f96a.png",
+      "name": "日常 174",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "sandwich",
+        "U+1F96A"
+      ],
+      "description": "内置透明图片表情：SANDWICH",
+      "unicode": "U+1F96A"
+    },
+    {
+      "id": "builtin-emoji-1f96b",
+      "fileName": "builtin-emoji-1f96b.png",
+      "name": "吃喝 175",
+      "category": "吃喝",
+      "tags": [
+        "吃喝",
+        "吃喝",
+        "canned food",
+        "U+1F96B"
+      ],
+      "description": "内置透明图片表情：CANNED FOOD",
+      "unicode": "U+1F96B"
+    },
+    {
+      "id": "builtin-emoji-1f96c",
+      "fileName": "builtin-emoji-1f96c.png",
+      "name": "日常 176",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "leafy green",
+        "U+1F96C"
+      ],
+      "description": "内置透明图片表情：LEAFY GREEN",
+      "unicode": "U+1F96C"
+    },
+    {
+      "id": "builtin-emoji-1f96d",
+      "fileName": "builtin-emoji-1f96d.png",
+      "name": "日常 177",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "mango",
+        "U+1F96D"
+      ],
+      "description": "内置透明图片表情：MANGO",
+      "unicode": "U+1F96D"
+    },
+    {
+      "id": "builtin-emoji-1f96e",
+      "fileName": "builtin-emoji-1f96e.png",
+      "name": "吃喝 178",
+      "category": "吃喝",
+      "tags": [
+        "吃喝",
+        "吃喝",
+        "moon cake",
+        "U+1F96E"
+      ],
+      "description": "内置透明图片表情：MOON CAKE",
+      "unicode": "U+1F96E"
+    },
+    {
+      "id": "builtin-emoji-1f96f",
+      "fileName": "builtin-emoji-1f96f.png",
+      "name": "日常 179",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "bagel",
+        "U+1F96F"
+      ],
+      "description": "内置透明图片表情：BAGEL",
+      "unicode": "U+1F96F"
+    },
+    {
+      "id": "builtin-emoji-1f970",
+      "fileName": "builtin-emoji-1f970.png",
+      "name": "喜欢 180",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "喜欢",
+        "smiling face with smiling eyes and three hearts",
+        "U+1F970"
+      ],
+      "description": "内置透明图片表情：SMILING FACE WITH SMILING EYES AND THREE HEARTS",
+      "unicode": "U+1F970"
+    },
+    {
+      "id": "builtin-emoji-1f971",
+      "fileName": "builtin-emoji-1f971.png",
+      "name": "表情 181",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "yawning face",
+        "U+1F971"
+      ],
+      "description": "内置透明图片表情：YAWNING FACE",
+      "unicode": "U+1F971"
+    },
+    {
+      "id": "builtin-emoji-1f972",
+      "fileName": "builtin-emoji-1f972.png",
+      "name": "表情 182",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "smiling face with tear",
+        "U+1F972"
+      ],
+      "description": "内置透明图片表情：SMILING FACE WITH TEAR",
+      "unicode": "U+1F972"
+    },
+    {
+      "id": "builtin-emoji-1f973",
+      "fileName": "builtin-emoji-1f973.png",
+      "name": "表情 183",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with party horn and party hat",
+        "U+1F973"
+      ],
+      "description": "内置透明图片表情：FACE WITH PARTY HORN AND PARTY HAT",
+      "unicode": "U+1F973"
+    },
+    {
+      "id": "builtin-emoji-1f974",
+      "fileName": "builtin-emoji-1f974.png",
+      "name": "表情 184",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with uneven eyes and wavy mouth",
+        "U+1F974"
+      ],
+      "description": "内置透明图片表情：FACE WITH UNEVEN EYES AND WAVY MOUTH",
+      "unicode": "U+1F974"
+    },
+    {
+      "id": "builtin-emoji-1f975",
+      "fileName": "builtin-emoji-1f975.png",
+      "name": "表情 185",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "overheated face",
+        "U+1F975"
+      ],
+      "description": "内置透明图片表情：OVERHEATED FACE",
+      "unicode": "U+1F975"
+    },
+    {
+      "id": "builtin-emoji-1f976",
+      "fileName": "builtin-emoji-1f976.png",
+      "name": "表情 186",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "freezing face",
+        "U+1F976"
+      ],
+      "description": "内置透明图片表情：FREEZING FACE",
+      "unicode": "U+1F976"
+    },
+    {
+      "id": "builtin-emoji-1f977",
+      "fileName": "builtin-emoji-1f977.png",
+      "name": "日常 187",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "ninja",
+        "U+1F977"
+      ],
+      "description": "内置透明图片表情：NINJA",
+      "unicode": "U+1F977"
+    },
+    {
+      "id": "builtin-emoji-1f978",
+      "fileName": "builtin-emoji-1f978.png",
+      "name": "表情 188",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "disguised face",
+        "U+1F978"
+      ],
+      "description": "内置透明图片表情：DISGUISED FACE",
+      "unicode": "U+1F978"
+    },
+    {
+      "id": "builtin-emoji-1f979",
+      "fileName": "builtin-emoji-1f979.png",
+      "name": "表情 189",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face holding back tears",
+        "U+1F979"
+      ],
+      "description": "内置透明图片表情：FACE HOLDING BACK TEARS",
+      "unicode": "U+1F979"
+    },
+    {
+      "id": "builtin-emoji-1f97a",
+      "fileName": "builtin-emoji-1f97a.png",
+      "name": "表情 190",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with pleading eyes",
+        "U+1F97A"
+      ],
+      "description": "内置透明图片表情：FACE WITH PLEADING EYES",
+      "unicode": "U+1F97A"
+    },
+    {
+      "id": "builtin-emoji-1f97b",
+      "fileName": "builtin-emoji-1f97b.png",
+      "name": "日常 191",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "sari",
+        "U+1F97B"
+      ],
+      "description": "内置透明图片表情：SARI",
+      "unicode": "U+1F97B"
+    },
+    {
+      "id": "builtin-emoji-1f97c",
+      "fileName": "builtin-emoji-1f97c.png",
+      "name": "日常 192",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "lab coat",
+        "U+1F97C"
+      ],
+      "description": "内置透明图片表情：LAB COAT",
+      "unicode": "U+1F97C"
+    },
+    {
+      "id": "builtin-emoji-1f97d",
+      "fileName": "builtin-emoji-1f97d.png",
+      "name": "日常 193",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "goggles",
+        "U+1F97D"
+      ],
+      "description": "内置透明图片表情：GOGGLES",
+      "unicode": "U+1F97D"
+    },
+    {
+      "id": "builtin-emoji-1f97e",
+      "fileName": "builtin-emoji-1f97e.png",
+      "name": "日常 194",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "hiking boot",
+        "U+1F97E"
+      ],
+      "description": "内置透明图片表情：HIKING BOOT",
+      "unicode": "U+1F97E"
+    },
+    {
+      "id": "builtin-emoji-1f97f",
+      "fileName": "builtin-emoji-1f97f.png",
+      "name": "日常 195",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "flat shoe",
+        "U+1F97F"
+      ],
+      "description": "内置透明图片表情：FLAT SHOE",
+      "unicode": "U+1F97F"
+    },
+    {
+      "id": "builtin-emoji-1f980",
+      "fileName": "builtin-emoji-1f980.png",
+      "name": "日常 196",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "crab",
+        "U+1F980"
+      ],
+      "description": "内置透明图片表情：CRAB",
+      "unicode": "U+1F980"
+    },
+    {
+      "id": "builtin-emoji-1f981",
+      "fileName": "builtin-emoji-1f981.png",
+      "name": "表情 197",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "lion face",
+        "U+1F981"
+      ],
+      "description": "内置透明图片表情：LION FACE",
+      "unicode": "U+1F981"
+    },
+    {
+      "id": "builtin-emoji-1f982",
+      "fileName": "builtin-emoji-1f982.png",
+      "name": "日常 198",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "scorpion",
+        "U+1F982"
+      ],
+      "description": "内置透明图片表情：SCORPION",
+      "unicode": "U+1F982"
+    },
+    {
+      "id": "builtin-emoji-1f983",
+      "fileName": "builtin-emoji-1f983.png",
+      "name": "日常 199",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "turkey",
+        "U+1F983"
+      ],
+      "description": "内置透明图片表情：TURKEY",
+      "unicode": "U+1F983"
+    },
+    {
+      "id": "builtin-emoji-1f984",
+      "fileName": "builtin-emoji-1f984.png",
+      "name": "表情 200",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "unicorn face",
+        "U+1F984"
+      ],
+      "description": "内置透明图片表情：UNICORN FACE",
+      "unicode": "U+1F984"
+    },
+    {
+      "id": "builtin-emoji-1f985",
+      "fileName": "builtin-emoji-1f985.png",
+      "name": "日常 201",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "eagle",
+        "U+1F985"
+      ],
+      "description": "内置透明图片表情：EAGLE",
+      "unicode": "U+1F985"
+    },
+    {
+      "id": "builtin-emoji-1f986",
+      "fileName": "builtin-emoji-1f986.png",
+      "name": "日常 202",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "duck",
+        "U+1F986"
+      ],
+      "description": "内置透明图片表情：DUCK",
+      "unicode": "U+1F986"
+    },
+    {
+      "id": "builtin-emoji-1f987",
+      "fileName": "builtin-emoji-1f987.png",
+      "name": "日常 203",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "bat",
+        "U+1F987"
+      ],
+      "description": "内置透明图片表情：BAT",
+      "unicode": "U+1F987"
+    },
+    {
+      "id": "builtin-emoji-1f988",
+      "fileName": "builtin-emoji-1f988.png",
+      "name": "日常 204",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "shark",
+        "U+1F988"
+      ],
+      "description": "内置透明图片表情：SHARK",
+      "unicode": "U+1F988"
+    },
+    {
+      "id": "builtin-emoji-1f989",
+      "fileName": "builtin-emoji-1f989.png",
+      "name": "日常 205",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "owl",
+        "U+1F989"
+      ],
+      "description": "内置透明图片表情：OWL",
+      "unicode": "U+1F989"
+    },
+    {
+      "id": "builtin-emoji-1f98a",
+      "fileName": "builtin-emoji-1f98a.png",
+      "name": "表情 206",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "fox face",
+        "U+1F98A"
+      ],
+      "description": "内置透明图片表情：FOX FACE",
+      "unicode": "U+1F98A"
+    },
+    {
+      "id": "builtin-emoji-1f98b",
+      "fileName": "builtin-emoji-1f98b.png",
+      "name": "日常 207",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "butterfly",
+        "U+1F98B"
+      ],
+      "description": "内置透明图片表情：BUTTERFLY",
+      "unicode": "U+1F98B"
+    },
+    {
+      "id": "builtin-emoji-1f98c",
+      "fileName": "builtin-emoji-1f98c.png",
+      "name": "日常 208",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "deer",
+        "U+1F98C"
+      ],
+      "description": "内置透明图片表情：DEER",
+      "unicode": "U+1F98C"
+    },
+    {
+      "id": "builtin-emoji-1f98d",
+      "fileName": "builtin-emoji-1f98d.png",
+      "name": "日常 209",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "gorilla",
+        "U+1F98D"
+      ],
+      "description": "内置透明图片表情：GORILLA",
+      "unicode": "U+1F98D"
+    },
+    {
+      "id": "builtin-emoji-1f98e",
+      "fileName": "builtin-emoji-1f98e.png",
+      "name": "日常 210",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "lizard",
+        "U+1F98E"
+      ],
+      "description": "内置透明图片表情：LIZARD",
+      "unicode": "U+1F98E"
+    },
+    {
+      "id": "builtin-emoji-1f98f",
+      "fileName": "builtin-emoji-1f98f.png",
+      "name": "日常 211",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "rhinoceros",
+        "U+1F98F"
+      ],
+      "description": "内置透明图片表情：RHINOCEROS",
+      "unicode": "U+1F98F"
+    },
+    {
+      "id": "builtin-emoji-1f990",
+      "fileName": "builtin-emoji-1f990.png",
+      "name": "日常 212",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "shrimp",
+        "U+1F990"
+      ],
+      "description": "内置透明图片表情：SHRIMP",
+      "unicode": "U+1F990"
+    },
+    {
+      "id": "builtin-emoji-1f991",
+      "fileName": "builtin-emoji-1f991.png",
+      "name": "日常 213",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "squid",
+        "U+1F991"
+      ],
+      "description": "内置透明图片表情：SQUID",
+      "unicode": "U+1F991"
+    },
+    {
+      "id": "builtin-emoji-1f992",
+      "fileName": "builtin-emoji-1f992.png",
+      "name": "表情 214",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "giraffe face",
+        "U+1F992"
+      ],
+      "description": "内置透明图片表情：GIRAFFE FACE",
+      "unicode": "U+1F992"
+    },
+    {
+      "id": "builtin-emoji-1f993",
+      "fileName": "builtin-emoji-1f993.png",
+      "name": "表情 215",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "zebra face",
+        "U+1F993"
+      ],
+      "description": "内置透明图片表情：ZEBRA FACE",
+      "unicode": "U+1F993"
+    },
+    {
+      "id": "builtin-emoji-1f994",
+      "fileName": "builtin-emoji-1f994.png",
+      "name": "日常 216",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "hedgehog",
+        "U+1F994"
+      ],
+      "description": "内置透明图片表情：HEDGEHOG",
+      "unicode": "U+1F994"
+    },
+    {
+      "id": "builtin-emoji-1f995",
+      "fileName": "builtin-emoji-1f995.png",
+      "name": "日常 217",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "sauropod",
+        "U+1F995"
+      ],
+      "description": "内置透明图片表情：SAUROPOD",
+      "unicode": "U+1F995"
+    },
+    {
+      "id": "builtin-emoji-1f996",
+      "fileName": "builtin-emoji-1f996.png",
+      "name": "日常 218",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "t rex",
+        "U+1F996"
+      ],
+      "description": "内置透明图片表情：T-REX",
+      "unicode": "U+1F996"
+    },
+    {
+      "id": "builtin-emoji-1f997",
+      "fileName": "builtin-emoji-1f997.png",
+      "name": "日常 219",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "cricket",
+        "U+1F997"
+      ],
+      "description": "内置透明图片表情：CRICKET",
+      "unicode": "U+1F997"
+    },
+    {
+      "id": "builtin-emoji-1f998",
+      "fileName": "builtin-emoji-1f998.png",
+      "name": "日常 220",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "kangaroo",
+        "U+1F998"
+      ],
+      "description": "内置透明图片表情：KANGAROO",
+      "unicode": "U+1F998"
+    },
+    {
+      "id": "builtin-emoji-1f999",
+      "fileName": "builtin-emoji-1f999.png",
+      "name": "日常 221",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "llama",
+        "U+1F999"
+      ],
+      "description": "内置透明图片表情：LLAMA",
+      "unicode": "U+1F999"
+    },
+    {
+      "id": "builtin-emoji-1f99a",
+      "fileName": "builtin-emoji-1f99a.png",
+      "name": "日常 222",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "peacock",
+        "U+1F99A"
+      ],
+      "description": "内置透明图片表情：PEACOCK",
+      "unicode": "U+1F99A"
+    },
+    {
+      "id": "builtin-emoji-1f99b",
+      "fileName": "builtin-emoji-1f99b.png",
+      "name": "日常 223",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "hippopotamus",
+        "U+1F99B"
+      ],
+      "description": "内置透明图片表情：HIPPOPOTAMUS",
+      "unicode": "U+1F99B"
+    },
+    {
+      "id": "builtin-emoji-1f99c",
+      "fileName": "builtin-emoji-1f99c.png",
+      "name": "日常 224",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "parrot",
+        "U+1F99C"
+      ],
+      "description": "内置透明图片表情：PARROT",
+      "unicode": "U+1F99C"
+    },
+    {
+      "id": "builtin-emoji-1f99d",
+      "fileName": "builtin-emoji-1f99d.png",
+      "name": "日常 225",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "raccoon",
+        "U+1F99D"
+      ],
+      "description": "内置透明图片表情：RACCOON",
+      "unicode": "U+1F99D"
+    },
+    {
+      "id": "builtin-emoji-1f99e",
+      "fileName": "builtin-emoji-1f99e.png",
+      "name": "日常 226",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "lobster",
+        "U+1F99E"
+      ],
+      "description": "内置透明图片表情：LOBSTER",
+      "unicode": "U+1F99E"
+    },
+    {
+      "id": "builtin-emoji-1f99f",
+      "fileName": "builtin-emoji-1f99f.png",
+      "name": "日常 227",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "mosquito",
+        "U+1F99F"
+      ],
+      "description": "内置透明图片表情：MOSQUITO",
+      "unicode": "U+1F99F"
+    },
+    {
+      "id": "builtin-emoji-1f9a0",
+      "fileName": "builtin-emoji-1f9a0.png",
+      "name": "日常 228",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "microbe",
+        "U+1F9A0"
+      ],
+      "description": "内置透明图片表情：MICROBE",
+      "unicode": "U+1F9A0"
+    },
+    {
+      "id": "builtin-emoji-1f9a1",
+      "fileName": "builtin-emoji-1f9a1.png",
+      "name": "日常 229",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "badger",
+        "U+1F9A1"
+      ],
+      "description": "内置透明图片表情：BADGER",
+      "unicode": "U+1F9A1"
+    },
+    {
+      "id": "builtin-emoji-1f9a2",
+      "fileName": "builtin-emoji-1f9a2.png",
+      "name": "日常 230",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "swan",
+        "U+1F9A2"
+      ],
+      "description": "内置透明图片表情：SWAN",
+      "unicode": "U+1F9A2"
+    },
+    {
+      "id": "builtin-emoji-1f9a3",
+      "fileName": "builtin-emoji-1f9a3.png",
+      "name": "日常 231",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "mammoth",
+        "U+1F9A3"
+      ],
+      "description": "内置透明图片表情：MAMMOTH",
+      "unicode": "U+1F9A3"
+    },
+    {
+      "id": "builtin-emoji-1f9a4",
+      "fileName": "builtin-emoji-1f9a4.png",
+      "name": "日常 232",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "dodo",
+        "U+1F9A4"
+      ],
+      "description": "内置透明图片表情：DODO",
+      "unicode": "U+1F9A4"
+    },
+    {
+      "id": "builtin-emoji-1f9a5",
+      "fileName": "builtin-emoji-1f9a5.png",
+      "name": "日常 233",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "sloth",
+        "U+1F9A5"
+      ],
+      "description": "内置透明图片表情：SLOTH",
+      "unicode": "U+1F9A5"
+    },
+    {
+      "id": "builtin-emoji-1f9a6",
+      "fileName": "builtin-emoji-1f9a6.png",
+      "name": "日常 234",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "otter",
+        "U+1F9A6"
+      ],
+      "description": "内置透明图片表情：OTTER",
+      "unicode": "U+1F9A6"
+    },
+    {
+      "id": "builtin-emoji-1f9a7",
+      "fileName": "builtin-emoji-1f9a7.png",
+      "name": "日常 235",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "orangutan",
+        "U+1F9A7"
+      ],
+      "description": "内置透明图片表情：ORANGUTAN",
+      "unicode": "U+1F9A7"
+    },
+    {
+      "id": "builtin-emoji-1f9a8",
+      "fileName": "builtin-emoji-1f9a8.png",
+      "name": "日常 236",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "skunk",
+        "U+1F9A8"
+      ],
+      "description": "内置透明图片表情：SKUNK",
+      "unicode": "U+1F9A8"
+    },
+    {
+      "id": "builtin-emoji-1f9a9",
+      "fileName": "builtin-emoji-1f9a9.png",
+      "name": "日常 237",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "flamingo",
+        "U+1F9A9"
+      ],
+      "description": "内置透明图片表情：FLAMINGO",
+      "unicode": "U+1F9A9"
+    },
+    {
+      "id": "builtin-emoji-1f9aa",
+      "fileName": "builtin-emoji-1f9aa.png",
+      "name": "日常 238",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "oyster",
+        "U+1F9AA"
+      ],
+      "description": "内置透明图片表情：OYSTER",
+      "unicode": "U+1F9AA"
+    },
+    {
+      "id": "builtin-emoji-1f9ab",
+      "fileName": "builtin-emoji-1f9ab.png",
+      "name": "日常 239",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "beaver",
+        "U+1F9AB"
+      ],
+      "description": "内置透明图片表情：BEAVER",
+      "unicode": "U+1F9AB"
+    },
+    {
+      "id": "builtin-emoji-1f9ac",
+      "fileName": "builtin-emoji-1f9ac.png",
+      "name": "日常 240",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "bison",
+        "U+1F9AC"
+      ],
+      "description": "内置透明图片表情：BISON",
+      "unicode": "U+1F9AC"
+    },
+    {
+      "id": "builtin-emoji-1f9ad",
+      "fileName": "builtin-emoji-1f9ad.png",
+      "name": "日常 241",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "seal",
+        "U+1F9AD"
+      ],
+      "description": "内置透明图片表情：SEAL",
+      "unicode": "U+1F9AD"
+    },
+    {
+      "id": "builtin-emoji-1f9ae",
+      "fileName": "builtin-emoji-1f9ae.png",
+      "name": "动物 242",
+      "category": "动物",
+      "tags": [
+        "动物",
+        "动物",
+        "guide dog",
+        "U+1F9AE"
+      ],
+      "description": "内置透明图片表情：GUIDE DOG",
+      "unicode": "U+1F9AE"
+    },
+    {
+      "id": "builtin-emoji-1f9af",
+      "fileName": "builtin-emoji-1f9af.png",
+      "name": "日常 243",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "probing cane",
+        "U+1F9AF"
+      ],
+      "description": "内置透明图片表情：PROBING CANE",
+      "unicode": "U+1F9AF"
+    },
+    {
+      "id": "builtin-emoji-1f9b0",
+      "fileName": "builtin-emoji-1f9b0.png",
+      "name": "日常 244",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "emoji component red hair",
+        "U+1F9B0"
+      ],
+      "description": "内置透明图片表情：EMOJI COMPONENT RED HAIR",
+      "unicode": "U+1F9B0"
+    },
+    {
+      "id": "builtin-emoji-1f9b1",
+      "fileName": "builtin-emoji-1f9b1.png",
+      "name": "日常 245",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "emoji component curly hair",
+        "U+1F9B1"
+      ],
+      "description": "内置透明图片表情：EMOJI COMPONENT CURLY HAIR",
+      "unicode": "U+1F9B1"
+    },
+    {
+      "id": "builtin-emoji-1f9b2",
+      "fileName": "builtin-emoji-1f9b2.png",
+      "name": "日常 246",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "emoji component bald",
+        "U+1F9B2"
+      ],
+      "description": "内置透明图片表情：EMOJI COMPONENT BALD",
+      "unicode": "U+1F9B2"
+    },
+    {
+      "id": "builtin-emoji-1f9b3",
+      "fileName": "builtin-emoji-1f9b3.png",
+      "name": "日常 247",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "emoji component white hair",
+        "U+1F9B3"
+      ],
+      "description": "内置透明图片表情：EMOJI COMPONENT WHITE HAIR",
+      "unicode": "U+1F9B3"
+    },
+    {
+      "id": "builtin-emoji-1f9b4",
+      "fileName": "builtin-emoji-1f9b4.png",
+      "name": "日常 248",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "bone",
+        "U+1F9B4"
+      ],
+      "description": "内置透明图片表情：BONE",
+      "unicode": "U+1F9B4"
+    },
+    {
+      "id": "builtin-emoji-1f9b5",
+      "fileName": "builtin-emoji-1f9b5.png",
+      "name": "日常 249",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "leg",
+        "U+1F9B5"
+      ],
+      "description": "内置透明图片表情：LEG",
+      "unicode": "U+1F9B5"
+    },
+    {
+      "id": "builtin-emoji-1f9b6",
+      "fileName": "builtin-emoji-1f9b6.png",
+      "name": "日常 250",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "foot",
+        "U+1F9B6"
+      ],
+      "description": "内置透明图片表情：FOOT",
+      "unicode": "U+1F9B6"
+    },
+    {
+      "id": "builtin-emoji-1f9b7",
+      "fileName": "builtin-emoji-1f9b7.png",
+      "name": "日常 251",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "tooth",
+        "U+1F9B7"
+      ],
+      "description": "内置透明图片表情：TOOTH",
+      "unicode": "U+1F9B7"
+    },
+    {
+      "id": "builtin-emoji-1f9b8",
+      "fileName": "builtin-emoji-1f9b8.png",
+      "name": "日常 252",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "superhero",
+        "U+1F9B8"
+      ],
+      "description": "内置透明图片表情：SUPERHERO",
+      "unicode": "U+1F9B8"
+    },
+    {
+      "id": "builtin-emoji-1f9b9",
+      "fileName": "builtin-emoji-1f9b9.png",
+      "name": "日常 253",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "supervillain",
+        "U+1F9B9"
+      ],
+      "description": "内置透明图片表情：SUPERVILLAIN",
+      "unicode": "U+1F9B9"
+    },
+    {
+      "id": "builtin-emoji-1f9ba",
+      "fileName": "builtin-emoji-1f9ba.png",
+      "name": "日常 254",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "safety vest",
+        "U+1F9BA"
+      ],
+      "description": "内置透明图片表情：SAFETY VEST",
+      "unicode": "U+1F9BA"
+    },
+    {
+      "id": "builtin-emoji-1f9bb",
+      "fileName": "builtin-emoji-1f9bb.png",
+      "name": "日常 255",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "ear with hearing aid",
+        "U+1F9BB"
+      ],
+      "description": "内置透明图片表情：EAR WITH HEARING AID",
+      "unicode": "U+1F9BB"
+    },
+    {
+      "id": "builtin-emoji-1f9bc",
+      "fileName": "builtin-emoji-1f9bc.png",
+      "name": "日常 256",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "motorized wheelchair",
+        "U+1F9BC"
+      ],
+      "description": "内置透明图片表情：MOTORIZED WHEELCHAIR",
+      "unicode": "U+1F9BC"
+    },
+    {
+      "id": "builtin-emoji-1f9bd",
+      "fileName": "builtin-emoji-1f9bd.png",
+      "name": "日常 257",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "manual wheelchair",
+        "U+1F9BD"
+      ],
+      "description": "内置透明图片表情：MANUAL WHEELCHAIR",
+      "unicode": "U+1F9BD"
+    },
+    {
+      "id": "builtin-emoji-1f9be",
+      "fileName": "builtin-emoji-1f9be.png",
+      "name": "日常 258",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "mechanical arm",
+        "U+1F9BE"
+      ],
+      "description": "内置透明图片表情：MECHANICAL ARM",
+      "unicode": "U+1F9BE"
+    },
+    {
+      "id": "builtin-emoji-1f9bf",
+      "fileName": "builtin-emoji-1f9bf.png",
+      "name": "日常 259",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "mechanical leg",
+        "U+1F9BF"
+      ],
+      "description": "内置透明图片表情：MECHANICAL LEG",
+      "unicode": "U+1F9BF"
+    },
+    {
+      "id": "builtin-emoji-1f9c0",
+      "fileName": "builtin-emoji-1f9c0.png",
+      "name": "日常 260",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "cheese wedge",
+        "U+1F9C0"
+      ],
+      "description": "内置透明图片表情：CHEESE WEDGE",
+      "unicode": "U+1F9C0"
+    },
+    {
+      "id": "builtin-emoji-1f9c1",
+      "fileName": "builtin-emoji-1f9c1.png",
+      "name": "吃喝 261",
+      "category": "吃喝",
+      "tags": [
+        "吃喝",
+        "吃喝",
+        "cupcake",
+        "U+1F9C1"
+      ],
+      "description": "内置透明图片表情：CUPCAKE",
+      "unicode": "U+1F9C1"
+    },
+    {
+      "id": "builtin-emoji-1f9c2",
+      "fileName": "builtin-emoji-1f9c2.png",
+      "name": "日常 262",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "salt shaker",
+        "U+1F9C2"
+      ],
+      "description": "内置透明图片表情：SALT SHAKER",
+      "unicode": "U+1F9C2"
+    },
+    {
+      "id": "builtin-emoji-1f9c3",
+      "fileName": "builtin-emoji-1f9c3.png",
+      "name": "日常 263",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "beverage box",
+        "U+1F9C3"
+      ],
+      "description": "内置透明图片表情：BEVERAGE BOX",
+      "unicode": "U+1F9C3"
+    },
+    {
+      "id": "builtin-emoji-1f9c4",
+      "fileName": "builtin-emoji-1f9c4.png",
+      "name": "日常 264",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "garlic",
+        "U+1F9C4"
+      ],
+      "description": "内置透明图片表情：GARLIC",
+      "unicode": "U+1F9C4"
+    },
+    {
+      "id": "builtin-emoji-1f9c5",
+      "fileName": "builtin-emoji-1f9c5.png",
+      "name": "日常 265",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "onion",
+        "U+1F9C5"
+      ],
+      "description": "内置透明图片表情：ONION",
+      "unicode": "U+1F9C5"
+    },
+    {
+      "id": "builtin-emoji-1f9c6",
+      "fileName": "builtin-emoji-1f9c6.png",
+      "name": "日常 266",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "falafel",
+        "U+1F9C6"
+      ],
+      "description": "内置透明图片表情：FALAFEL",
+      "unicode": "U+1F9C6"
+    },
+    {
+      "id": "builtin-emoji-1f9c7",
+      "fileName": "builtin-emoji-1f9c7.png",
+      "name": "日常 267",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "waffle",
+        "U+1F9C7"
+      ],
+      "description": "内置透明图片表情：WAFFLE",
+      "unicode": "U+1F9C7"
+    },
+    {
+      "id": "builtin-emoji-1f9c8",
+      "fileName": "builtin-emoji-1f9c8.png",
+      "name": "日常 268",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "butter",
+        "U+1F9C8"
+      ],
+      "description": "内置透明图片表情：BUTTER",
+      "unicode": "U+1F9C8"
+    },
+    {
+      "id": "builtin-emoji-1f9c9",
+      "fileName": "builtin-emoji-1f9c9.png",
+      "name": "吃喝 269",
+      "category": "吃喝",
+      "tags": [
+        "吃喝",
+        "吃喝",
+        "mate drink",
+        "U+1F9C9"
+      ],
+      "description": "内置透明图片表情：MATE DRINK",
+      "unicode": "U+1F9C9"
+    },
+    {
+      "id": "builtin-emoji-1f9ca",
+      "fileName": "builtin-emoji-1f9ca.png",
+      "name": "日常 270",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "ice cube",
+        "U+1F9CA"
+      ],
+      "description": "内置透明图片表情：ICE CUBE",
+      "unicode": "U+1F9CA"
+    },
+    {
+      "id": "builtin-emoji-1f9cb",
+      "fileName": "builtin-emoji-1f9cb.png",
+      "name": "日常 271",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "bubble tea",
+        "U+1F9CB"
+      ],
+      "description": "内置透明图片表情：BUBBLE TEA",
+      "unicode": "U+1F9CB"
+    },
+    {
+      "id": "builtin-emoji-1f9cc",
+      "fileName": "builtin-emoji-1f9cc.png",
+      "name": "日常 272",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "troll",
+        "U+1F9CC"
+      ],
+      "description": "内置透明图片表情：TROLL",
+      "unicode": "U+1F9CC"
+    },
+    {
+      "id": "builtin-emoji-1f9cd",
+      "fileName": "builtin-emoji-1f9cd.png",
+      "name": "日常 273",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "standing person",
+        "U+1F9CD"
+      ],
+      "description": "内置透明图片表情：STANDING PERSON",
+      "unicode": "U+1F9CD"
+    },
+    {
+      "id": "builtin-emoji-1f9ce",
+      "fileName": "builtin-emoji-1f9ce.png",
+      "name": "日常 274",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "kneeling person",
+        "U+1F9CE"
+      ],
+      "description": "内置透明图片表情：KNEELING PERSON",
+      "unicode": "U+1F9CE"
+    },
+    {
+      "id": "builtin-emoji-1f9cf",
+      "fileName": "builtin-emoji-1f9cf.png",
+      "name": "日常 275",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "deaf person",
+        "U+1F9CF"
+      ],
+      "description": "内置透明图片表情：DEAF PERSON",
+      "unicode": "U+1F9CF"
+    },
+    {
+      "id": "builtin-emoji-1f9d0",
+      "fileName": "builtin-emoji-1f9d0.png",
+      "name": "表情 276",
+      "category": "情绪",
+      "tags": [
+        "情绪",
+        "表情",
+        "face with monocle",
+        "U+1F9D0"
+      ],
+      "description": "内置透明图片表情：FACE WITH MONOCLE",
+      "unicode": "U+1F9D0"
+    },
+    {
+      "id": "builtin-emoji-1f9d1",
+      "fileName": "builtin-emoji-1f9d1.png",
+      "name": "日常 277",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "adult",
+        "U+1F9D1"
+      ],
+      "description": "内置透明图片表情：ADULT",
+      "unicode": "U+1F9D1"
+    },
+    {
+      "id": "builtin-emoji-1f9d2",
+      "fileName": "builtin-emoji-1f9d2.png",
+      "name": "日常 278",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "child",
+        "U+1F9D2"
+      ],
+      "description": "内置透明图片表情：CHILD",
+      "unicode": "U+1F9D2"
+    },
+    {
+      "id": "builtin-emoji-1f9d3",
+      "fileName": "builtin-emoji-1f9d3.png",
+      "name": "日常 279",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "older adult",
+        "U+1F9D3"
+      ],
+      "description": "内置透明图片表情：OLDER ADULT",
+      "unicode": "U+1F9D3"
+    },
+    {
+      "id": "builtin-emoji-1f9d4",
+      "fileName": "builtin-emoji-1f9d4.png",
+      "name": "动物 280",
+      "category": "动物",
+      "tags": [
+        "动物",
+        "动物",
+        "bearded person",
+        "U+1F9D4"
+      ],
+      "description": "内置透明图片表情：BEARDED PERSON",
+      "unicode": "U+1F9D4"
+    },
+    {
+      "id": "builtin-emoji-1f9d5",
+      "fileName": "builtin-emoji-1f9d5.png",
+      "name": "日常 281",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "person with headscarf",
+        "U+1F9D5"
+      ],
+      "description": "内置透明图片表情：PERSON WITH HEADSCARF",
+      "unicode": "U+1F9D5"
+    },
+    {
+      "id": "builtin-emoji-1f9d6",
+      "fileName": "builtin-emoji-1f9d6.png",
+      "name": "日常 282",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "person in steamy room",
+        "U+1F9D6"
+      ],
+      "description": "内置透明图片表情：PERSON IN STEAMY ROOM",
+      "unicode": "U+1F9D6"
+    },
+    {
+      "id": "builtin-emoji-1f9d7",
+      "fileName": "builtin-emoji-1f9d7.png",
+      "name": "日常 283",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "person climbing",
+        "U+1F9D7"
+      ],
+      "description": "内置透明图片表情：PERSON CLIMBING",
+      "unicode": "U+1F9D7"
+    },
+    {
+      "id": "builtin-emoji-1f9d8",
+      "fileName": "builtin-emoji-1f9d8.png",
+      "name": "日常 284",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "person in lotus position",
+        "U+1F9D8"
+      ],
+      "description": "内置透明图片表情：PERSON IN LOTUS POSITION",
+      "unicode": "U+1F9D8"
+    },
+    {
+      "id": "builtin-emoji-1f9d9",
+      "fileName": "builtin-emoji-1f9d9.png",
+      "name": "日常 285",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "mage",
+        "U+1F9D9"
+      ],
+      "description": "内置透明图片表情：MAGE",
+      "unicode": "U+1F9D9"
+    },
+    {
+      "id": "builtin-emoji-1f9da",
+      "fileName": "builtin-emoji-1f9da.png",
+      "name": "日常 286",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "fairy",
+        "U+1F9DA"
+      ],
+      "description": "内置透明图片表情：FAIRY",
+      "unicode": "U+1F9DA"
+    },
+    {
+      "id": "builtin-emoji-1f9db",
+      "fileName": "builtin-emoji-1f9db.png",
+      "name": "日常 287",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "vampire",
+        "U+1F9DB"
+      ],
+      "description": "内置透明图片表情：VAMPIRE",
+      "unicode": "U+1F9DB"
+    },
+    {
+      "id": "builtin-emoji-1f9dc",
+      "fileName": "builtin-emoji-1f9dc.png",
+      "name": "日常 288",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "merperson",
+        "U+1F9DC"
+      ],
+      "description": "内置透明图片表情：MERPERSON",
+      "unicode": "U+1F9DC"
+    },
+    {
+      "id": "builtin-emoji-1f9dd",
+      "fileName": "builtin-emoji-1f9dd.png",
+      "name": "日常 289",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "elf",
+        "U+1F9DD"
+      ],
+      "description": "内置透明图片表情：ELF",
+      "unicode": "U+1F9DD"
+    },
+    {
+      "id": "builtin-emoji-1f9de",
+      "fileName": "builtin-emoji-1f9de.png",
+      "name": "日常 290",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "genie",
+        "U+1F9DE"
+      ],
+      "description": "内置透明图片表情：GENIE",
+      "unicode": "U+1F9DE"
+    },
+    {
+      "id": "builtin-emoji-1f9df",
+      "fileName": "builtin-emoji-1f9df.png",
+      "name": "日常 291",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "zombie",
+        "U+1F9DF"
+      ],
+      "description": "内置透明图片表情：ZOMBIE",
+      "unicode": "U+1F9DF"
+    },
+    {
+      "id": "builtin-emoji-1f9e0",
+      "fileName": "builtin-emoji-1f9e0.png",
+      "name": "天气 292",
+      "category": "天气时间",
+      "tags": [
+        "天气时间",
+        "天气",
+        "brain",
+        "U+1F9E0"
+      ],
+      "description": "内置透明图片表情：BRAIN",
+      "unicode": "U+1F9E0"
+    },
+    {
+      "id": "builtin-emoji-1f9e1",
+      "fileName": "builtin-emoji-1f9e1.png",
+      "name": "喜欢 293",
+      "category": "爱意",
+      "tags": [
+        "爱意",
+        "喜欢",
+        "orange heart",
+        "U+1F9E1"
+      ],
+      "description": "内置透明图片表情：ORANGE HEART",
+      "unicode": "U+1F9E1"
+    },
+    {
+      "id": "builtin-emoji-1f9e2",
+      "fileName": "builtin-emoji-1f9e2.png",
+      "name": "日常 294",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "billed cap",
+        "U+1F9E2"
+      ],
+      "description": "内置透明图片表情：BILLED CAP",
+      "unicode": "U+1F9E2"
+    },
+    {
+      "id": "builtin-emoji-1f9e3",
+      "fileName": "builtin-emoji-1f9e3.png",
+      "name": "日常 295",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "scarf",
+        "U+1F9E3"
+      ],
+      "description": "内置透明图片表情：SCARF",
+      "unicode": "U+1F9E3"
+    },
+    {
+      "id": "builtin-emoji-1f9e4",
+      "fileName": "builtin-emoji-1f9e4.png",
+      "name": "喜欢 296",
+      "category": "爱意",
+      "tags": [
+        "爱意",
+        "喜欢",
+        "gloves",
+        "U+1F9E4"
+      ],
+      "description": "内置透明图片表情：GLOVES",
+      "unicode": "U+1F9E4"
+    },
+    {
+      "id": "builtin-emoji-1f9e5",
+      "fileName": "builtin-emoji-1f9e5.png",
+      "name": "日常 297",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "coat",
+        "U+1F9E5"
+      ],
+      "description": "内置透明图片表情：COAT",
+      "unicode": "U+1F9E5"
+    },
+    {
+      "id": "builtin-emoji-1f9e6",
+      "fileName": "builtin-emoji-1f9e6.png",
+      "name": "日常 298",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "socks",
+        "U+1F9E6"
+      ],
+      "description": "内置透明图片表情：SOCKS",
+      "unicode": "U+1F9E6"
+    },
+    {
+      "id": "builtin-emoji-1f9e7",
+      "fileName": "builtin-emoji-1f9e7.png",
+      "name": "日常 299",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "red gift envelope",
+        "U+1F9E7"
+      ],
+      "description": "内置透明图片表情：RED GIFT ENVELOPE",
+      "unicode": "U+1F9E7"
+    },
+    {
+      "id": "builtin-emoji-1f9e8",
+      "fileName": "builtin-emoji-1f9e8.png",
+      "name": "天气 300",
+      "category": "天气时间",
+      "tags": [
+        "天气时间",
+        "天气",
+        "firecracker",
+        "U+1F9E8"
+      ],
+      "description": "内置透明图片表情：FIRECRACKER",
+      "unicode": "U+1F9E8"
+    },
+    {
+      "id": "builtin-emoji-1f9e9",
+      "fileName": "builtin-emoji-1f9e9.png",
+      "name": "日常 301",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "jigsaw puzzle piece",
+        "U+1F9E9"
+      ],
+      "description": "内置透明图片表情：JIGSAW PUZZLE PIECE",
+      "unicode": "U+1F9E9"
+    },
+    {
+      "id": "builtin-emoji-1f9ea",
+      "fileName": "builtin-emoji-1f9ea.png",
+      "name": "日常 302",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "test tube",
+        "U+1F9EA"
+      ],
+      "description": "内置透明图片表情：TEST TUBE",
+      "unicode": "U+1F9EA"
+    },
+    {
+      "id": "builtin-emoji-1f9eb",
+      "fileName": "builtin-emoji-1f9eb.png",
+      "name": "日常 303",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "petri dish",
+        "U+1F9EB"
+      ],
+      "description": "内置透明图片表情：PETRI DISH",
+      "unicode": "U+1F9EB"
+    },
+    {
+      "id": "builtin-emoji-1f9ec",
+      "fileName": "builtin-emoji-1f9ec.png",
+      "name": "日常 304",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "dna double helix",
+        "U+1F9EC"
+      ],
+      "description": "内置透明图片表情：DNA DOUBLE HELIX",
+      "unicode": "U+1F9EC"
+    },
+    {
+      "id": "builtin-emoji-1f9ed",
+      "fileName": "builtin-emoji-1f9ed.png",
+      "name": "日常 305",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "compass",
+        "U+1F9ED"
+      ],
+      "description": "内置透明图片表情：COMPASS",
+      "unicode": "U+1F9ED"
+    },
+    {
+      "id": "builtin-emoji-1f9ee",
+      "fileName": "builtin-emoji-1f9ee.png",
+      "name": "日常 306",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "abacus",
+        "U+1F9EE"
+      ],
+      "description": "内置透明图片表情：ABACUS",
+      "unicode": "U+1F9EE"
+    },
+    {
+      "id": "builtin-emoji-1f9ef",
+      "fileName": "builtin-emoji-1f9ef.png",
+      "name": "天气 307",
+      "category": "天气时间",
+      "tags": [
+        "天气时间",
+        "天气",
+        "fire extinguisher",
+        "U+1F9EF"
+      ],
+      "description": "内置透明图片表情：FIRE EXTINGUISHER",
+      "unicode": "U+1F9EF"
+    },
+    {
+      "id": "builtin-emoji-1f9f0",
+      "fileName": "builtin-emoji-1f9f0.png",
+      "name": "日常 308",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "toolbox",
+        "U+1F9F0"
+      ],
+      "description": "内置透明图片表情：TOOLBOX",
+      "unicode": "U+1F9F0"
+    },
+    {
+      "id": "builtin-emoji-1f9f1",
+      "fileName": "builtin-emoji-1f9f1.png",
+      "name": "日常 309",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "brick",
+        "U+1F9F1"
+      ],
+      "description": "内置透明图片表情：BRICK",
+      "unicode": "U+1F9F1"
+    },
+    {
+      "id": "builtin-emoji-1f9f2",
+      "fileName": "builtin-emoji-1f9f2.png",
+      "name": "日常 310",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "magnet",
+        "U+1F9F2"
+      ],
+      "description": "内置透明图片表情：MAGNET",
+      "unicode": "U+1F9F2"
+    },
+    {
+      "id": "builtin-emoji-1f9f3",
+      "fileName": "builtin-emoji-1f9f3.png",
+      "name": "日常 311",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "luggage",
+        "U+1F9F3"
+      ],
+      "description": "内置透明图片表情：LUGGAGE",
+      "unicode": "U+1F9F3"
+    },
+    {
+      "id": "builtin-emoji-1f9f4",
+      "fileName": "builtin-emoji-1f9f4.png",
+      "name": "日常 312",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "lotion bottle",
+        "U+1F9F4"
+      ],
+      "description": "内置透明图片表情：LOTION BOTTLE",
+      "unicode": "U+1F9F4"
+    },
+    {
+      "id": "builtin-emoji-1f9f5",
+      "fileName": "builtin-emoji-1f9f5.png",
+      "name": "日常 313",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "spool of thread",
+        "U+1F9F5"
+      ],
+      "description": "内置透明图片表情：SPOOL OF THREAD",
+      "unicode": "U+1F9F5"
+    },
+    {
+      "id": "builtin-emoji-1f9f6",
+      "fileName": "builtin-emoji-1f9f6.png",
+      "name": "活动 314",
+      "category": "活动",
+      "tags": [
+        "活动",
+        "活动",
+        "ball of yarn",
+        "U+1F9F6"
+      ],
+      "description": "内置透明图片表情：BALL OF YARN",
+      "unicode": "U+1F9F6"
+    },
+    {
+      "id": "builtin-emoji-1f9f7",
+      "fileName": "builtin-emoji-1f9f7.png",
+      "name": "日常 315",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "safety pin",
+        "U+1F9F7"
+      ],
+      "description": "内置透明图片表情：SAFETY PIN",
+      "unicode": "U+1F9F7"
+    },
+    {
+      "id": "builtin-emoji-1f9f8",
+      "fileName": "builtin-emoji-1f9f8.png",
+      "name": "动物 316",
+      "category": "动物",
+      "tags": [
+        "动物",
+        "动物",
+        "teddy bear",
+        "U+1F9F8"
+      ],
+      "description": "内置透明图片表情：TEDDY BEAR",
+      "unicode": "U+1F9F8"
+    },
+    {
+      "id": "builtin-emoji-1f9f9",
+      "fileName": "builtin-emoji-1f9f9.png",
+      "name": "日常 317",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "broom",
+        "U+1F9F9"
+      ],
+      "description": "内置透明图片表情：BROOM",
+      "unicode": "U+1F9F9"
+    },
+    {
+      "id": "builtin-emoji-1f9fa",
+      "fileName": "builtin-emoji-1f9fa.png",
+      "name": "日常 318",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "basket",
+        "U+1F9FA"
+      ],
+      "description": "内置透明图片表情：BASKET",
+      "unicode": "U+1F9FA"
+    },
+    {
+      "id": "builtin-emoji-1f9fb",
+      "fileName": "builtin-emoji-1f9fb.png",
+      "name": "日常 319",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "roll of paper",
+        "U+1F9FB"
+      ],
+      "description": "内置透明图片表情：ROLL OF PAPER",
+      "unicode": "U+1F9FB"
+    },
+    {
+      "id": "builtin-emoji-1f9fc",
+      "fileName": "builtin-emoji-1f9fc.png",
+      "name": "日常 320",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "bar of soap",
+        "U+1F9FC"
+      ],
+      "description": "内置透明图片表情：BAR OF SOAP",
+      "unicode": "U+1F9FC"
+    },
+    {
+      "id": "builtin-emoji-1f9fd",
+      "fileName": "builtin-emoji-1f9fd.png",
+      "name": "日常 321",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "sponge",
+        "U+1F9FD"
+      ],
+      "description": "内置透明图片表情：SPONGE",
+      "unicode": "U+1F9FD"
+    },
+    {
+      "id": "builtin-emoji-1f9fe",
+      "fileName": "builtin-emoji-1f9fe.png",
+      "name": "日常 322",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "receipt",
+        "U+1F9FE"
+      ],
+      "description": "内置透明图片表情：RECEIPT",
+      "unicode": "U+1F9FE"
+    },
+    {
+      "id": "builtin-emoji-1f9ff",
+      "fileName": "builtin-emoji-1f9ff.png",
+      "name": "日常 323",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "nazar amulet",
+        "U+1F9FF"
+      ],
+      "description": "内置透明图片表情：NAZAR AMULET",
+      "unicode": "U+1F9FF"
+    },
+    {
+      "id": "builtin-emoji-1fa70",
+      "fileName": "builtin-emoji-1fa70.png",
+      "name": "活动 324",
+      "category": "活动",
+      "tags": [
+        "活动",
+        "活动",
+        "ballet shoes",
+        "U+1FA70"
+      ],
+      "description": "内置透明图片表情：BALLET SHOES",
+      "unicode": "U+1FA70"
+    },
+    {
+      "id": "builtin-emoji-1fa71",
+      "fileName": "builtin-emoji-1fa71.png",
+      "name": "日常 325",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "one piece swimsuit",
+        "U+1FA71"
+      ],
+      "description": "内置透明图片表情：ONE-PIECE SWIMSUIT",
+      "unicode": "U+1FA71"
+    },
+    {
+      "id": "builtin-emoji-1fa72",
+      "fileName": "builtin-emoji-1fa72.png",
+      "name": "日常 326",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "briefs",
+        "U+1FA72"
+      ],
+      "description": "内置透明图片表情：BRIEFS",
+      "unicode": "U+1FA72"
+    },
+    {
+      "id": "builtin-emoji-1fa73",
+      "fileName": "builtin-emoji-1fa73.png",
+      "name": "日常 327",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "shorts",
+        "U+1FA73"
+      ],
+      "description": "内置透明图片表情：SHORTS",
+      "unicode": "U+1FA73"
+    },
+    {
+      "id": "builtin-emoji-1fa74",
+      "fileName": "builtin-emoji-1fa74.png",
+      "name": "日常 328",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "thong sandal",
+        "U+1FA74"
+      ],
+      "description": "内置透明图片表情：THONG SANDAL",
+      "unicode": "U+1FA74"
+    },
+    {
+      "id": "builtin-emoji-1fa75",
+      "fileName": "builtin-emoji-1fa75.png",
+      "name": "喜欢 329",
+      "category": "爱意",
+      "tags": [
+        "爱意",
+        "喜欢",
+        "light blue heart",
+        "U+1FA75"
+      ],
+      "description": "内置透明图片表情：LIGHT BLUE HEART",
+      "unicode": "U+1FA75"
+    },
+    {
+      "id": "builtin-emoji-1fa76",
+      "fileName": "builtin-emoji-1fa76.png",
+      "name": "喜欢 330",
+      "category": "爱意",
+      "tags": [
+        "爱意",
+        "喜欢",
+        "grey heart",
+        "U+1FA76"
+      ],
+      "description": "内置透明图片表情：GREY HEART",
+      "unicode": "U+1FA76"
+    },
+    {
+      "id": "builtin-emoji-1fa77",
+      "fileName": "builtin-emoji-1fa77.png",
+      "name": "喜欢 331",
+      "category": "爱意",
+      "tags": [
+        "爱意",
+        "喜欢",
+        "pink heart",
+        "U+1FA77"
+      ],
+      "description": "内置透明图片表情：PINK HEART",
+      "unicode": "U+1FA77"
+    },
+    {
+      "id": "builtin-emoji-1fa78",
+      "fileName": "builtin-emoji-1fa78.png",
+      "name": "日常 332",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "drop of blood",
+        "U+1FA78"
+      ],
+      "description": "内置透明图片表情：DROP OF BLOOD",
+      "unicode": "U+1FA78"
+    },
+    {
+      "id": "builtin-emoji-1fa79",
+      "fileName": "builtin-emoji-1fa79.png",
+      "name": "日常 333",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "adhesive bandage",
+        "U+1FA79"
+      ],
+      "description": "内置透明图片表情：ADHESIVE BANDAGE",
+      "unicode": "U+1FA79"
+    },
+    {
+      "id": "builtin-emoji-1fa7a",
+      "fileName": "builtin-emoji-1fa7a.png",
+      "name": "日常 334",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "stethoscope",
+        "U+1FA7A"
+      ],
+      "description": "内置透明图片表情：STETHOSCOPE",
+      "unicode": "U+1FA7A"
+    },
+    {
+      "id": "builtin-emoji-1fa7b",
+      "fileName": "builtin-emoji-1fa7b.png",
+      "name": "日常 335",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "x ray",
+        "U+1FA7B"
+      ],
+      "description": "内置透明图片表情：X-RAY",
+      "unicode": "U+1FA7B"
+    },
+    {
+      "id": "builtin-emoji-1fa7c",
+      "fileName": "builtin-emoji-1fa7c.png",
+      "name": "日常 336",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "crutch",
+        "U+1FA7C"
+      ],
+      "description": "内置透明图片表情：CRUTCH",
+      "unicode": "U+1FA7C"
+    },
+    {
+      "id": "builtin-emoji-1fa80",
+      "fileName": "builtin-emoji-1fa80.png",
+      "name": "日常 337",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "yo yo",
+        "U+1FA80"
+      ],
+      "description": "内置透明图片表情：YO-YO",
+      "unicode": "U+1FA80"
+    },
+    {
+      "id": "builtin-emoji-1fa81",
+      "fileName": "builtin-emoji-1fa81.png",
+      "name": "日常 338",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "kite",
+        "U+1FA81"
+      ],
+      "description": "内置透明图片表情：KITE",
+      "unicode": "U+1FA81"
+    },
+    {
+      "id": "builtin-emoji-1fa82",
+      "fileName": "builtin-emoji-1fa82.png",
+      "name": "日常 339",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "parachute",
+        "U+1FA82"
+      ],
+      "description": "内置透明图片表情：PARACHUTE",
+      "unicode": "U+1FA82"
+    },
+    {
+      "id": "builtin-emoji-1fa83",
+      "fileName": "builtin-emoji-1fa83.png",
+      "name": "日常 340",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "boomerang",
+        "U+1FA83"
+      ],
+      "description": "内置透明图片表情：BOOMERANG",
+      "unicode": "U+1FA83"
+    },
+    {
+      "id": "builtin-emoji-1fa84",
+      "fileName": "builtin-emoji-1fa84.png",
+      "name": "日常 341",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "magic wand",
+        "U+1FA84"
+      ],
+      "description": "内置透明图片表情：MAGIC WAND",
+      "unicode": "U+1FA84"
+    },
+    {
+      "id": "builtin-emoji-1fa85",
+      "fileName": "builtin-emoji-1fa85.png",
+      "name": "日常 342",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "pinata",
+        "U+1FA85"
+      ],
+      "description": "内置透明图片表情：PINATA",
+      "unicode": "U+1FA85"
+    },
+    {
+      "id": "builtin-emoji-1fa86",
+      "fileName": "builtin-emoji-1fa86.png",
+      "name": "日常 343",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "nesting dolls",
+        "U+1FA86"
+      ],
+      "description": "内置透明图片表情：NESTING DOLLS",
+      "unicode": "U+1FA86"
+    },
+    {
+      "id": "builtin-emoji-1fa87",
+      "fileName": "builtin-emoji-1fa87.png",
+      "name": "日常 344",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "maracas",
+        "U+1FA87"
+      ],
+      "description": "内置透明图片表情：MARACAS",
+      "unicode": "U+1FA87"
+    },
+    {
+      "id": "builtin-emoji-1fa88",
+      "fileName": "builtin-emoji-1fa88.png",
+      "name": "日常 345",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "flute",
+        "U+1FA88"
+      ],
+      "description": "内置透明图片表情：FLUTE",
+      "unicode": "U+1FA88"
+    },
+    {
+      "id": "builtin-emoji-1fa90",
+      "fileName": "builtin-emoji-1fa90.png",
+      "name": "日常 346",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "ringed planet",
+        "U+1FA90"
+      ],
+      "description": "内置透明图片表情：RINGED PLANET",
+      "unicode": "U+1FA90"
+    },
+    {
+      "id": "builtin-emoji-1fa91",
+      "fileName": "builtin-emoji-1fa91.png",
+      "name": "日常 347",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "chair",
+        "U+1FA91"
+      ],
+      "description": "内置透明图片表情：CHAIR",
+      "unicode": "U+1FA91"
+    },
+    {
+      "id": "builtin-emoji-1fa92",
+      "fileName": "builtin-emoji-1fa92.png",
+      "name": "日常 348",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "razor",
+        "U+1FA92"
+      ],
+      "description": "内置透明图片表情：RAZOR",
+      "unicode": "U+1FA92"
+    },
+    {
+      "id": "builtin-emoji-1fa93",
+      "fileName": "builtin-emoji-1fa93.png",
+      "name": "日常 349",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "axe",
+        "U+1FA93"
+      ],
+      "description": "内置透明图片表情：AXE",
+      "unicode": "U+1FA93"
+    },
+    {
+      "id": "builtin-emoji-1fa94",
+      "fileName": "builtin-emoji-1fa94.png",
+      "name": "日常 350",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "diya lamp",
+        "U+1FA94"
+      ],
+      "description": "内置透明图片表情：DIYA LAMP",
+      "unicode": "U+1FA94"
+    },
+    {
+      "id": "builtin-emoji-1fa95",
+      "fileName": "builtin-emoji-1fa95.png",
+      "name": "日常 351",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "banjo",
+        "U+1FA95"
+      ],
+      "description": "内置透明图片表情：BANJO",
+      "unicode": "U+1FA95"
+    },
+    {
+      "id": "builtin-emoji-1fa96",
+      "fileName": "builtin-emoji-1fa96.png",
+      "name": "日常 352",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "military helmet",
+        "U+1FA96"
+      ],
+      "description": "内置透明图片表情：MILITARY HELMET",
+      "unicode": "U+1FA96"
+    },
+    {
+      "id": "builtin-emoji-1fa97",
+      "fileName": "builtin-emoji-1fa97.png",
+      "name": "日常 353",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "accordion",
+        "U+1FA97"
+      ],
+      "description": "内置透明图片表情：ACCORDION",
+      "unicode": "U+1FA97"
+    },
+    {
+      "id": "builtin-emoji-1fa98",
+      "fileName": "builtin-emoji-1fa98.png",
+      "name": "日常 354",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "long drum",
+        "U+1FA98"
+      ],
+      "description": "内置透明图片表情：LONG DRUM",
+      "unicode": "U+1FA98"
+    },
+    {
+      "id": "builtin-emoji-1fa99",
+      "fileName": "builtin-emoji-1fa99.png",
+      "name": "日常 355",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "coin",
+        "U+1FA99"
+      ],
+      "description": "内置透明图片表情：COIN",
+      "unicode": "U+1FA99"
+    },
+    {
+      "id": "builtin-emoji-1fa9a",
+      "fileName": "builtin-emoji-1fa9a.png",
+      "name": "日常 356",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "carpentry saw",
+        "U+1FA9A"
+      ],
+      "description": "内置透明图片表情：CARPENTRY SAW",
+      "unicode": "U+1FA9A"
+    },
+    {
+      "id": "builtin-emoji-1fa9b",
+      "fileName": "builtin-emoji-1fa9b.png",
+      "name": "日常 357",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "screwdriver",
+        "U+1FA9B"
+      ],
+      "description": "内置透明图片表情：SCREWDRIVER",
+      "unicode": "U+1FA9B"
+    },
+    {
+      "id": "builtin-emoji-1fa9c",
+      "fileName": "builtin-emoji-1fa9c.png",
+      "name": "日常 358",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "ladder",
+        "U+1FA9C"
+      ],
+      "description": "内置透明图片表情：LADDER",
+      "unicode": "U+1FA9C"
+    },
+    {
+      "id": "builtin-emoji-1fa9d",
+      "fileName": "builtin-emoji-1fa9d.png",
+      "name": "日常 359",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "hook",
+        "U+1FA9D"
+      ],
+      "description": "内置透明图片表情：HOOK",
+      "unicode": "U+1FA9D"
+    },
+    {
+      "id": "builtin-emoji-1fa9e",
+      "fileName": "builtin-emoji-1fa9e.png",
+      "name": "日常 360",
+      "category": "日常",
+      "tags": [
+        "日常",
+        "日常",
+        "mirror",
+        "U+1FA9E"
+      ],
+      "description": "内置透明图片表情：MIRROR",
+      "unicode": "U+1FA9E"
+    }
+  ]
+}
