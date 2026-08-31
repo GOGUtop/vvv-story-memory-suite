@@ -26,8 +26,10 @@ assert.ok(qaPrompt.includes('【VVV作者场外问答｜本轮暂停角色扮演
 assert.ok(qa.includes('injectAuthorQaPrompt'),'standalone author QA injector missing');
 assert.ok(qa.includes("await mod.Generate('regenerate')"),'author answer recovery missing');
 assert.ok(hub.includes("const API='/api/plugins/vvv-theater-memory-server'"),'Memory Hub endpoint changed');
-assert.ok(server.includes("const ENABLED_ACCOUNTS = new Set(['vvv'])"),'server account policy changed');
+assert.ok(server.includes('multi-account mode'),'server multi-account mode missing');
+assert.ok(server.includes('initializeAccountStorage'),'server per-account initialization missing');
+assert.ok(server.includes('account-required'),'server account isolation guard missing');
 assert.ok(theater.includes('/scripts/extensions/third-party/vvv-story-memory-suite/memory-hub/index.html'),'Memory Hub standalone path not patched');
 assert.ok(!theater.includes('/scripts/extensions/third-party/vvv-unified-core/memory-hub/index.html'),'legacy Memory Hub path remains');
 for(const absent of ['modules/cardvault/index.js','modules/creative/index.js'])assert.ok(!fs.existsSync(path.join(root,absent)),`unwanted module included: ${absent}`);
-console.log('PASS standalone integrity: extracted 0-32 + relay + RAG/Memory Hub + author QA preserve fixed42 data/bridge ids and single-world behavior.');
+console.log('PASS standalone integrity: 0-32 + relay + RAG/Memory Hub + author QA preserve fixed42 data/bridge ids, single-world behavior, and multi-account startup.');

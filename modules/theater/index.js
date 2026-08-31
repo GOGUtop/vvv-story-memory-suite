@@ -12721,7 +12721,7 @@ ${activities.join('\n')||'- 暂无记录'}`;
     };
     function phoneThemeCenterMarkup() {
         const store=stateRuntime.state.phone.themeStore ||= {active:'classic',installed:['classic']};
-        return `<div class="vvvtm-phone-app-page"><header class="vvvtm-phone-app-head"><button data-phone-home>‹</button><div><b>🎨 主题中心</b><small>像手机主题商店一样下载并应用</small></div><button data-phone-home>⌂</button></header><main class="vvvtm-theme-center">${Object.entries(PHONE_THEMES).map(([id,theme])=>{const installed=store.installed.includes(id),active=store.active===id;return `<article class="vvvtm-theme-card ${active?'active':''}"><div class="vvvtm-theme-preview theme-${id}"><span>${theme.preview}</span></div><div><b>${esc(theme.name)}</b><small>${esc(theme.desc)}</small></div><button data-phone-theme-id="${id}" data-phone-theme-action="${installed?'apply':'download'}" ${active?'disabled':''}>${active?'使用中':installed?'应用':'下载'}</button></article>`;}).join('')}<p>主题包只保存在当前 vvv 账号，不会复制到其他账号。</p></main></div>`;
+        return `<div class="vvvtm-phone-app-page"><header class="vvvtm-phone-app-head"><button data-phone-home>‹</button><div><b>🎨 主题中心</b><small>像手机主题商店一样下载并应用</small></div><button data-phone-home>⌂</button></header><main class="vvvtm-theme-center">${Object.entries(PHONE_THEMES).map(([id,theme])=>{const installed=store.installed.includes(id),active=store.active===id;return `<article class="vvvtm-theme-card ${active?'active':''}"><div class="vvvtm-theme-preview theme-${id}"><span>${theme.preview}</span></div><div><b>${esc(theme.name)}</b><small>${esc(theme.desc)}</small></div><button data-phone-theme-id="${id}" data-phone-theme-action="${installed?'apply':'download'}" ${active?'disabled':''}>${active?'使用中':installed?'应用':'下载'}</button></article>`;}).join('')}<p>主题包只保存在当前账号，不会复制到其他账号。</p></main></div>`;
     }
 
     function phoneSettingsMarkup() {
@@ -14344,12 +14344,11 @@ ${activities.join('\n')||'- 暂无记录'}`;
     async function verifyVvvFrontendAccess() {
         try {
             const health = await serverFetch('/health');
-            if (health?.account && health.account !== 'vvv') return false;
             return true;
         } catch (error) {
             const message = String(error?.message || error);
-            if (/only-vvv|仅.*vvv|forbidden|403/i.test(message)) return false;
-            // 服务端暂时未加载时不破坏 vvv 的本地状态；正确安装后重启服务端即可恢复联网能力。
+            if (/forbidden|403/i.test(message)) return false;
+            // 服务端暂时未加载时不破坏当前账号的本地状态；正确安装后重启服务端即可恢复联网能力。
             return true;
         }
     }

@@ -2,8 +2,8 @@ import { isAuthorQaRequest, injectAuthorQaPrompt, initAuthorQa } from './modules
 
 (() => {
 'use strict';
-const VERSION='1.0.0';
-const BUILD='vvv-story-memory-suite-1.0.0-fixed42-base';
+const VERSION='1.0.1';
+const BUILD='vvv-story-memory-suite-1.0.1-public-multi-account';
 
 if(globalThis.__VVV_STORY_MEMORY_SUITE_INSTANCE__){
   console.warn('[VVV Story Memory Suite] duplicate load blocked',globalThis.__VVV_STORY_MEMORY_SUITE_INSTANCE__);
@@ -16,7 +16,19 @@ globalThis.__VVV_STORY_MEMORY_SUITE_INSTANCE__=BUILD;
 // do not start a second copy of the same state machine.
 if(globalThis.__VVV_UNIFIED_CORE_INSTANCE__ || globalThis.vvvTheaterMemoryInterceptor){
   globalThis.__VVV_STORY_MEMORY_SUITE_BLOCKED_BY_LEGACY__=true;
-  console.warn('[VVV Story Memory Suite] old VVV unified/theater frontend detected; standalone runtime not started to avoid duplicate memory writes. Disable/remove the old 0-00 frontend, then reload.');
+  const showLegacyConflict=()=>{
+    try{
+      globalThis.toastr?.warning?.('检测到旧版 VVV 0-00/0-32 正在运行。为避免同一轮重复写记忆，独立版已暂停。请关闭旧核心后刷新。','VVV · 剧情与记忆核心',{timeOut:0,extendedTimeOut:0,closeButton:true});
+      const menu=document.getElementById('extensionsMenu');
+      if(menu&&!document.getElementById('vvvsm-conflict-entry')){
+        const row=document.createElement('div');row.id='vvvsm-conflict-entry';row.className='list-group-item flex-container flexGap5';
+        row.innerHTML='<span>⚠️ VVV · 剧情与记忆核心：检测到旧核心冲突，已暂停</span>';
+        menu.appendChild(row);
+      }
+    }catch{}
+  };
+  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',showLegacyConflict,{once:true});else setTimeout(showLegacyConflict,0);
+  console.warn('[VVV Story Memory Suite] legacy VVV core detected; standalone runtime paused to avoid duplicate memory writes.');
   return;
 }
 
@@ -140,6 +152,23 @@ const viewport={sync:syncVisualViewport,bind:bindVisualViewport,diagnostics:()=>
 
 globalThis.VVVUnifiedCore={version:VERSION,build:BUILD,runtime,events,tasks,overlays,viewport,toast};
 
+function ensureSuiteLauncher(){
+  const menu=document.getElementById('extensionsMenu');
+  if(!menu||document.getElementById('vvvsm-suite-launcher'))return false;
+  const box=document.createElement('div');
+  box.id='vvvsm-suite-launcher';
+  box.className='list-group-item flex-container flexFlowColumn';
+  box.innerHTML=`<div style="font-weight:700;margin-bottom:6px">✒ VVV · 剧情与记忆核心</div><div style="display:flex;gap:6px;flex-wrap:wrap"><button type="button" data-vvvsm-open="memory">0-32</button><button type="button" data-vvvsm-open="relay">剧情推进</button><button type="button" data-vvvsm-open="author">问作者</button><button type="button" data-vvvsm-open="hub">Memory Hub</button></div>`;
+  box.addEventListener('click',e=>{
+    const key=e.target?.closest?.('[data-vvvsm-open]')?.dataset?.vvvsmOpen;if(!key)return;
+    if(key==='memory')globalThis.openVVVTheaterMemory?.();
+    else if(key==='relay')globalThis.VVVUnifiedRelay?.open?.();
+    else if(key==='author')globalThis.VVVStoryMemoryAuthorQa?.open?.();
+    else if(key==='hub')window.open('/scripts/extensions/third-party/vvv-story-memory-suite/memory-hub/index.html','_blank','noopener');
+  });
+  menu.appendChild(box);return true;
+}
+
 async function safeImport(path,label){
   try{const mod=await import(new URL(path,import.meta.url).href+`?u=${encodeURIComponent(BUILD)}`);runtime.modules[label]=true;return mod||true;}
   catch(e){runtime.bootError=e;console.error(`[VVV Story Memory] ${label} load failed`,e);toast(`${label}模块加载失败：${e.message}`,'error');return false;}
@@ -147,10 +176,8 @@ async function safeImport(path,label){
 
 const bootPromise=(async()=>{
   runtime.account=await account();
-  // Server plugin fixed42 is intentionally still vvv-only; keep behavior identical.
-  if(runtime.account!=='vvv'){
-    console.info('[VVV Story Memory Suite] current account is not vvv; standalone core remains idle.');
-    runtime.booted=true;return;
+  if(!runtime.account){
+    console.warn('[VVV Story Memory Suite] unable to resolve current SillyTavern account; continuing in frontend-only mode until account becomes available.');
   }
   viewport.bind();
   await safeImport('./modules/theater/index.js','theater');
@@ -158,13 +185,15 @@ const bootPromise=(async()=>{
   runtime.modules.relay=!!globalThis.VVVUnifiedRelay;
   try{await initAuthorQa({events,overlays,toast,getContext:stContext});runtime.modules.authorQa=true;}catch(e){console.error('[VVV Story Memory] author QA init failed',e);}
   events.bindPending();runtime.booted=true;
+  ensureSuiteLauncher();setTimeout(ensureSuiteLauncher,500);setTimeout(ensureSuiteLauncher,1500);
+  try{new MutationObserver(()=>ensureSuiteLauncher()).observe(document.documentElement,{subtree:true,childList:true});}catch{}
   console.info('[VVV Story Memory Suite] ready',JSON.parse(JSON.stringify(runtime)));
 })();
 
 // Single interceptor entry. Author QA only changes the one marked round; 0-32 keeps
 // its original interception for all normal rounds.
 globalThis.vvvStoryMemoryInterceptor=async function(chat,contextSize,abort,type){
-  await bootPromise;if(runtime.account!=='vvv'||!Array.isArray(chat))return;
+  await bootPromise;if(!Array.isArray(chat))return;
   try{if(isAuthorQaRequest(chat))injectAuthorQaPrompt(chat);}catch(e){console.error('[VVV Story Memory] author QA interceptor failed',e);}
   try{if(typeof globalThis.vvvTheaterMemoryInterceptor==='function')await globalThis.vvvTheaterMemoryInterceptor(chat,contextSize,abort,type);}catch(e){console.error('[VVV Story Memory] theater interceptor failed',e);}
 };

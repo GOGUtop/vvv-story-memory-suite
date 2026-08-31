@@ -22,7 +22,7 @@
 
 仓库创建后固定使用：
 
-`https://github.com/GOGUtop/vvv-story-memory-suite`
+`https://github.com/nanjun434-byte/vvv-story-memory-suite`
 
 在 SillyTavern 的扩展安装界面使用上面的 GitHub 仓库地址安装。仓库根目录就是标准扩展目录，`auto_update=true`。
 
@@ -47,3 +47,10 @@ bash verify.sh
 ## fixed42 保留项
 
 本独立版直接以 fixed42 为代码基线，保留 fixed39 单一世界、fixed40 新档保护、fixed41 正常生成顺序修复、fixed42 网络状态单一真值修复。
+
+## v1.0.1 公共订阅修复
+
+- 移除仅账号 `vvv` 才启动的限制；所有 SillyTavern 账号均可加载。
+- 服务端永久数据继续按账号目录隔离，不会互相串档。
+- 扩展菜单增加固定入口：0-32 / 剧情推进 / 问作者 / Memory Hub。
+- 如果检测到旧版 VVV 0-00/0-32 仍在运行，会明确提示冲突，而不是“已安装但什么都不显示”。

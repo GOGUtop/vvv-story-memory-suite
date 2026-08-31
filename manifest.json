@@ -2,8 +2,8 @@
   "manifest_version": 1,
   "id": "vvv_story_memory_suite",
   "display_name": "✒ VVV · 剧情与记忆核心",
-  "version": "1.0.0",
-  "description": "从 R21 fixed42 独立拆出的 0-32、AI剧情推进、Memory Hub/RAG 与作者场外问答。继续读取原 vvv_theater_memory / vvv_story_relay 设置和永久档案，不建立第二条剧情世界线。",
+  "version": "1.0.1",
+  "description": "独立版 0-32、AI剧情推进、Memory Hub/RAG 与作者场外问答；支持所有 SillyTavern 账号，并按账号隔离永久数据。",
   "author": "小狗主理人 × vvv",
   "loading_order": 25,
   "requires": [],
@@ -12,5 +12,5 @@
   "css": "style.css",
   "generate_interceptor": "vvvStoryMemoryInterceptor",
   "auto_update": true,
-  "homePage": "https://github.com/nanjun434-byte/vvv-story-memory-suite"
+  "homePage": "https://github.com/GOGUtop/vvv-story-memory-suite"
 }
