@@ -1,0 +1,8 @@
+{
+  "name": "vvv-theater-memory-server",
+  "version": "0.9.3-r9s1p41-s15-032-u1715-world-map-avatar-studio-r21-memory-bridge",
+  "private": true,
+  "type": "module",
+  "main": "index.mjs",
+  "description": "U1.7.15 R21 服务端助手：保留账号隔离的记忆、手机和NovelAI能力，支持主记忆签名桥接、预设历史快照与360张内置表情。"
+}
